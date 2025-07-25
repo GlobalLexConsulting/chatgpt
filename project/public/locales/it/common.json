@@ -1,0 +1,196 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Servizi",
+    "llc_usa": "LLC USA",
+    "about": "Chi siamo",
+    "partners": "Partner",
+    "testimonials": "Testimonianze",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contatti",
+    "clients": "Clienti",
+    "free_consultation": "Consulenza Gratuita"
+  },
+  "hero": {
+    "title": "Consulenza Fiscale Internazionale, Visti e Costituzione LLC",
+    "subtitle": "Il nostro studio offre consulenza fiscale internazionale, servizi per visti e costituzione di LLC. Siamo esperti in pianificazione fiscale, conformità normativa e strutture societarie per imprese digitali e nomadi.",
+    "cta_main": "Prenota il tuo mini-audit di 15'",
+    "cta_secondary": "Invia Richiesta"
+  },
+   "services": {
+    "title": "Soluzioni Complete per la Tua Espansione Globale",
+    "subtitle": "Dalla costituzione della tua azienda alla pianificazione fiscale internazionale, ti copriamo noi.",
+    "service_residency_title": "Immigrazione e Residenza Fiscale",
+    "service_residency_desc": "Gestiamo visti, permessi di soggiorno e ottimizziamo la tua situazione fiscale come espatriato o nomade digitale.",
+    "service_residency_points": [
+      "Visto per Nomadi Digitali in Spagna e altri paesi",
+      "Applicazione della Legge Beckham",
+      "Ottenimento di NIE e residenza",
+      "Pianificazione fiscale di ingresso e uscita"
+    ],
+    "service_incorporation_title": "Costituzione di Società (SL, LLC)",
+    "service_incorporation_desc": "Creiamo la struttura societaria che meglio si adatta alla tua attività, in Spagna (SL) o negli USA (LLC).",
+    "service_incorporation_points": [
+      "Costituzione di LLC negli USA per non residenti",
+      "Costituzione di Società a Responsabilità Limitata (SL) in Spagna",
+      "Consulenza sulla scelta della struttura ottimale",
+      "Gestione di conti correnti aziendali"
+    ],
+    "service_tax_title": "Consulenza Fiscale Internazionale",
+    "service_tax_desc": "Navighiamo la complessità della tassazione internazionale per minimizzare il tuo carico fiscale e garantire la conformità.",
+    "service_tax_points": [
+      "Pianificazione fiscale internazionale (BEPS, Pillar Two)",
+      "Dichiarazioni dei redditi per espatriati",
+      "Trattati sulla doppia imposizione",
+      "Conformità alle normative (DAC7, ecc.)"
+    ],
+    "service_spain_fiscal_title": "Gestione Fiscale e Contabile in Spagna",
+    "service_spain_fiscal_desc": "Servizi completi di contabilità, fiscalità e gestione doganale per autonomi e PMI in Spagna, con specializzazione nelle Isole Canarie.",
+    "service_spain_fiscal_points": [
+        "Contabilità ufficiale e presentazione dei libri contabili",
+        "Dichiarazioni fiscali (IVA, IRPF, Imposta sulle società)",
+        "Gestione dell'IGIC nelle Isole Canarie",
+        "Procedure doganali (DUA, EORI, ROI)"
+    ],
+    "service_germany_title": "Logistica e Trasporti in Germania",
+    "service_germany_desc": "Consulenza specializzata per aziende di logistica e trasporti che operano o vogliono operare in Germania.",
+    "service_germany_points": [
+      "Costituzione di società in Germania",
+      "Conformità alla legge sulla catena di fornitura",
+      "Gestione di licenze e permessi di trasporto",
+      "Ottimizzazione fiscale delle operazioni logistiche"
+    ],
+    "service_insurance_title": "Assicurazioni per Espatriati e Aziende",
+    "service_insurance_desc": "Ti aiutiamo a trovare la copertura sanitaria e di responsabilità civile perfetta per la tua vita e la tua attività all'estero.",
+    "service_insurance_points": [
+      "Assicurazioni sanitarie internazionali",
+      "Polizze di responsabilità civile professionale",
+      "Assicurazioni di viaggio e rimpatrio",
+      "Confronto delle migliori opzioni di mercato"
+    ],
+    "service_work_germany_title": "Lavoro in Germania: Collocamento Legale",
+    "service_work_germany_desc": "Mettiamo in contatto talenti spagnoli con aziende tedesche. Gestione completa del processo.",
+    "service_work_germany_points": [
+      "Contratto legale e iscrizione alla Sicurezza Sociale",
+      "Supporto per la registrazione anagrafica e conto bancario",
+      "Assistenza per alloggio e trasporti",
+      "Comunicazione e supporto continui nella tua lingua"
+    ],
+    "start_process_cta": "Inizia il tuo processo",
+    "request_quote_cta": "Richiedi un preventivo",
+    "view_more_info": "Visualizza maggiori informazioni"
+  },
+  "about": {
+    "title": "Il Tuo Partner Strategico in un Mondo Connesso",
+    "subtitle": "Guidato da Ismael L., il nostro team internazionale demistifica la complessità fiscale e legale per permetterti di espanderti senza confini.",
+    "paragraph1": "In un mondo interconnesso, una corretta pianificazione fiscale e legale non è un'opzione, è una necessità. <strong>ConsultGlobalLex</strong> nasce dalla visione di offrire una consulenza altamente specializzata, accessibile e adattata alla nuova economia digitale. La nostra specializzazione in <strong class=\"font-semibold text-gray-800 dark:text-white\">consulenza fiscale internazionale, visti e costituzione di LLC</strong> ci posiziona come l'alternativa agile e personalizzata a grandi studi come Deloitte o CE Consulting.",
+    "paragraph2": "Guidato da Ismael L., Consulente e CEO, il nostro team internazionale demistifica la complessità fiscale per nomadi digitali, espatriati e aziende. Non siamo solo consulenti; siamo strateghi che comprendono le sfumature della <a href=\"https://www.oecd.org/tax/beps/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">normativa BEPS</a>, della Legge Beckham e della doppia imposizione.",
+    "experience_title": "Esperienza Comprovata e Rete Globale",
+    "experience_desc": "Collaboriamo con una rete di avvocati, agenti doganali e consulenti con decenni di esperienza in fiscalità internazionale, prezzi di trasferimento ed espansione aziendale. Ciò ci consente di offrire soluzioni complete per la costituzione di LLC, la conformità a normative come Pillar Two e DAC7 e la gestione di visti per nomadi digitali, con un approccio pratico ed efficiente.",
+    "approach_title": "Approccio Integrale e Tecnologico",
+    "approach_desc": "La nostra missione è fondere la tecnologia legale con una consulenza strategica per permetterti di scalare la tua attività senza confini. Offriamo una prospettiva globale dalle nostre sedi negli Stati Uniti e in Spagna, garantendo una solida pianificazione fiscale internazionale e un'esecuzione impeccabile per minimizzare i rischi e massimizzare la tua efficienza.",
+    "cta_contact": "Contattaci Ora",
+    "cta_blog": "Esplora il Nostro Blog"
+  },
+  "partners": {
+    "title": "I Nostri Partner Strategici",
+    "subtitle": "Collaboriamo con una rete di professionisti leader per offrirti un servizio completo e competitivo.",
+    "insurance_title": "Accesso a oltre 60 Assicuratori",
+    "insurance_desc": "Grazie alle nostre alleanze, ti garantiamo le migliori condizioni di mercato per una vasta gamma di assicurazioni: Casa, Salute, Veicoli, Vita, Responsabilità Civile e Aziendali. Confrontiamo e troviamo l'opzione ideale per te."
+  },
+  "guides": {
+    "title": "Guide Pratiche Gratuite",
+    "subtitle": "Scarica le nostre risorse esclusive e ottieni un vantaggio competitivo nel mercato globale.",
+    "download_cta": "Scarica Guida",
+    "visas_guide_title": "Guida Completa ai Visti",
+    "visas_guide_desc": "Tutto ciò che devi sapere sui visti per nomadi digitali, investitori e professionisti.",
+    "sl_vs_llc_usa_title": "Confronto: SL vs LLC USA",
+    "sl_vs_llc_usa_desc": "Analizziamo i vantaggi fiscali e legali di ciascuna struttura per aiutarti a scegliere l'opzione migliore.",
+    "beps_guide_title": "Guida Essenziale a BEPS 2.0",
+    "beps_guide_desc": "Comprendi come le nuove normative fiscali globali influenzano la tua attività digitale.",
+    "tourism_license_title": "Licenze Turistiche: Chiavi",
+    "tourism_license_desc": "Una guida indispensabile per la gestione e l'ottimizzazione fiscale delle proprietà turistiche.",
+    "germany_logistics_title": "Logistica in Germania: Guida",
+    "germany_logistics_desc": "Ottimizza le tue operazioni di trasporto e logistica nel cuore dell'Europa."
+  },
+  "testimonials": {
+    "title": "Cosa dicono di noi",
+    "subtitle": "Recensioni dei Clienti"
+  },
+  "faq": {
+    "title": "Rispondiamo ai Tuoi Dubbi",
+    "subtitle": "Domande Frequenti sulla Consulenza Globale",
+    "description": "Trova risposte rapide alle domande più comuni su fiscalità internazionale, diritto commerciale globale e come possiamo aiutarti.",
+    "footer_text": "Non trovi la tua risposta?",
+    "footer_link": "Contatta i nostri esperti",
+    "footer_text_after": "per una consulenza personalizzata sul tuo caso specifico.",
+    "categories": [
+      {
+        "category": "Generale",
+        "items": [
+          {
+            "question": "Quali servizi offre Consult Globallex?",
+            "answer": "Consulenza fiscale internazionale per nomadi digitali ed espatriati; costituzione e gestione di S.L. in Spagna e LLC negli USA; conformità BEPS; gestione visti; consulenza contabile e fiscale per PMI e liberi professionisti; consulenza legale strategica; operazioni e logistica in Germania; e gestione del rischio e assicurazioni."
+          },
+          {
+            "question": "Come inizio a lavorare con voi?",
+            "answer": "Compila il modulo 'Prenota il tuo mini-audit di 15' GRATIS' o scrivici a info@consultgloballex.com. Riceverai una proposta personalizzata in meno di 24 ore."
+          },
+          {
+            "question": "In quali lingue offrite assistenza?",
+            "answer": "Spagnolo, inglese e francese, sia per iscritto che tramite videochiamata (Zoom, Teams) o email."
+          }
+        ]
+      },
+      {
+        "category": "Mobilità e Residenza Internazionale",
+        "items": [
+          {
+            "question": "Cos'è la 'Residenza e Mobilità Internazionale'?",
+            "answer": "Progettiamo ed eseguiamo la tua strategia di cambio di residenza fiscale e legale tra giurisdizioni, per nomadi digitali, investitori e professionisti, con il minor impatto possibile."
+          },
+          {
+            "question": "Quali visti gestite?",
+            "answer": "– Visti per nomadi digitali e permessi non lucrativi.\n– Residenze per investimento ('Golden Visa').\n– Pratiche secondo la Legge Beckham e altri regimi speciali."
+          },
+          {
+            "question": "Come ottimizzate il mio 'tax-day'?",
+            "answer": "Pianifichiamo le tue date chiave di residenza fiscale e attività economica per minimizzare il tuo onere fiscale senza violare la normativa."
+          },
+          {
+            "question": "Qual è il processo per una Golden Visa?",
+            "answer": "Analizziamo il tuo profilo di investimento (immobili, fondi, progetti), prepariamo la documentazione e gestiamo la tua richiesta fino all'ottenimento della residenza."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Pronto a Potenziare la Tua Strategia Globale?",
+    "description": "Contatta i nostri esperti per una consulenza iniziale gratuita e scopri come possiamo aiutarti a raggiungere i tuoi obiettivi internazionali.",
+    "form_name": "Nome",
+    "form_email": "Email",
+    "form_phone": "Telefono (Opzionale)",
+    "form_service": "Servizio di Interesse",
+    "form_message": "Il tuo messaggio",
+    "form_submit": "Invia Messaggio",
+    "form_success_title": "Messaggio Inviato!",
+    "form_success_desc": "Grazie per averci contattato. Ti risponderemo a breve.",
+    "form_error_title": "Errore nell'Invio",
+    "form_error_desc": "C'è stato un problema. Per favore, riprova.",
+    "form_validation": {
+        "name_required": "Il nome è obbligatorio.",
+        "email_invalid": "Inserisci un'email valida.",
+        "message_required": "Il messaggio deve contenere almeno 10 caratteri."
+    }
+  },
+  "footer": {
+    "description": "Consulenza fiscale e legale per un mondo senza confini. Il tuo partner strategico per la crescita globale.",
+    "services": "Servizi",
+    "company": "Azienda",
+    "legal": "Legale",
+    "rights": "Tutti i diritti riservati."
+  }
+}
