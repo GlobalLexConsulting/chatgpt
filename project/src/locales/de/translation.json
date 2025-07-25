@@ -1,0 +1,593 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "llc_usa": "LLC USA",
+    "about": "Über uns",
+    "partners": "Partner",
+    "testimonials": "Referenzen",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "clients": "Kunden",
+    "free_consultation": "Kostenlose Beratung"
+  },
+  "hero": {
+    "title": "Internationale Steuerberatung, Visa und LLC-Gründung",
+    "subtitle": "Unsere Kanzlei bietet internationale Steuerberatung, Visa-Dienstleistungen und LLC-Gründungen an. Wir sind Experten für Steuerplanung, regulatorische Compliance und Unternehmensstrukturen für digitale Unternehmen und Nomaden.",
+    "cta_main": "Buchen Sie Ihr 15' Mini-Audit",
+    "cta_secondary": "Anfrage senden"
+  },
+  "services": {
+    "title": "Umfassende Lösungen für Ihre globale Expansion",
+    "subtitle": "Von der Gründung Ihres Unternehmens bis zur internationalen Steuerplanung sind Sie bei uns richtig.",
+    "service_residency_title": "Einwanderung und steuerlicher Wohnsitz",
+    "service_residency_desc": "Wir verwalten Visa, Aufenthaltsgenehmigungen und optimieren Ihre Steuersituation als Expat oder digitaler Nomade.",
+    "service_residency_points": [
+      "Digitales Nomadenvisum in Spanien und anderen Ländern",
+      "Anwendung des Beckham-Gesetzes",
+      "Erlangung von NIE und Aufenthaltsgenehmigung",
+      "Steuerplanung bei Ein- und Ausreise"
+    ],
+    "service_incorporation_title": "Unternehmensgründung (SL, LLC)",
+    "service_incorporation_desc": "Wir schaffen die Unternehmensstruktur, die am besten zu Ihrem Unternehmen passt, in Spanien (SL) oder den USA (LLC).",
+    "service_incorporation_points": [
+      "LLC-Gründung in den USA für Nichtansässige",
+      "Gründung von Gesellschaften mit beschränkter Haftung (SL) in Spanien",
+      "Beratung bei der Wahl der optimalen Struktur",
+      "Verwaltung von Firmenbankkonten"
+    ],
+    "service_tax_title": "Internationale Steuerberatung",
+    "service_tax_desc": "Wir navigieren durch die Komplexität der internationalen Besteuerung, um Ihre Steuerlast zu minimieren und die Einhaltung der Vorschriften zu gewährleisten.",
+    "service_tax_points": [
+      "Internationale Steuerplanung (BEPS, Pillar Two)",
+      "Steuererklärungen für Expats",
+      "Doppelbesteuerungsabkommen",
+      "Einhaltung von Vorschriften (DAC7 usw.)"
+    ],
+    "service_spain_fiscal_title": "Steuer- und Rechnungswesen in Spanien",
+    "service_spain_fiscal_desc": "Umfassende Dienstleistungen in den Bereichen Buchhaltung, Steuern und Zoll für Freiberufler und KMU in Spanien, mit Spezialisierung auf die Kanarischen Inseln.",
+    "service_spain_fiscal_points": [
+        "Offizielle Buchführung und Einreichung",
+        "Steuererklärungen (MwSt., Einkommensteuer, Körperschaftsteuer)",
+        "IGIC-Management auf den Kanarischen Inseln",
+        "Zollverfahren (DUA, EORI, ROI)"
+    ],
+    "service_germany_title": "Logistik und Transport in Deutschland",
+    "service_germany_desc": "Spezialisierte Beratung für Logistik- und Transportunternehmen, die in Deutschland tätig sind oder werden wollen.",
+    "service_germany_points": [
+      "Unternehmensgründung in Deutschland",
+      "Einhaltung des Lieferkettengesetzes",
+      "Verwaltung von Lizenzen und Transportgenehmigungen",
+      "Steuerliche Optimierung von Logistikoperationen"
+    ],
+    "service_insurance_title": "Versicherungen für Expats und Unternehmen",
+    "service_insurance_desc": "Wir helfen Ihnen, die perfekte Kranken- und Haftpflichtversicherung für Ihr Leben und Geschäft im Ausland zu finden.",
+    "service_insurance_points": [
+      "Internationale Krankenversicherungen",
+      "Berufshaftpflichtversicherungen",
+      "Reise- und Rückführungsversicherungen",
+      "Vergleich der besten Marktoptionen"
+    ],
+    "service_work_germany_title": "Arbeiten in Deutschland: Legale Vermittlung",
+    "service_work_germany_desc": "Wir verbinden spanische Talente mit deutschen Unternehmen. Umfassende Prozessverwaltung.",
+    "service_work_germany_points": [
+      "Rechtsgültiger Vertrag und Anmeldung bei der Sozialversicherung",
+      "Unterstützung bei der Anmeldung und dem Bankkonto",
+      "Hilfe bei Unterkunft und Transport",
+      "Kontinuierliche Kommunikation und Unterstützung in Ihrer Sprache"
+    ],
+    "start_process_cta": "Starten Sie Ihren Prozess",
+    "request_quote_cta": "Angebot anfordern",
+    "locations_title": "Unsere Standorte",
+    "locations_list": "USA und Spanien, mit einem Netzwerk von Mitarbeitern in ganz Europa.",
+    "languages_title": "Sprachen",
+    "languages_list": "Spanisch, Englisch, Deutsch, Italienisch.",
+    "cta": "Bereit, Ihr Unternehmen auf die nächste Stufe zu heben?",
+    "why_us_title": "Warum Consult Globallex wählen?",
+    "why_us_subtitle": "Wir sind mehr als Berater. Wir sind Ihre strategischen Partner in der komplexen globalen Landschaft.",
+    "why_us_point1_title": "Erfahrung und Spezialisierung",
+    "why_us_point1_desc": "Unser Team kombiniert jahrzehntelange Erfahrung in den Bereichen Steuern, Handelsrecht und Einwanderung und bietet bewährte und effektive Lösungen.",
+    "why_us_point2_title": "Globaler Fokus, persönliche Note",
+    "why_us_point2_desc": "Wir verstehen die Nuancen mehrerer Gerichtsbarkeiten, bieten Ihnen aber einen einzigen Ansprechpartner und eine enge, persönliche Betreuung.",
+    "why_us_point3_title": "Agilität und Transparenz",
+    "why_us_point3_desc": "Wir sind eine moderne Alternative zu großen Beratungsunternehmen. Agile Prozesse, modernste Technologie und klare Preise ohne Überraschungen."
+  },
+  "about": {
+    "title": "Ihr strategischer Partner in einer vernetzten Welt",
+    "subtitle": "Unter der Leitung von Ismael L. entmystifiziert unser internationales Team die steuerliche und rechtliche Komplexität, damit Sie grenzenlos expandieren können.",
+    "paragraph1": "In einer vernetzten Welt ist eine ordnungsgemäße Steuer- und Rechtsplanung keine Option, sondern eine Notwendigkeit. <strong>ConsultGlobalLex</strong> wurde aus der Vision geboren, hochspezialisierte, zugängliche und an die neue digitale Wirtschaft angepasste Beratung anzubieten. Unsere Spezialisierung auf <strong class=\"font-semibold text-gray-800 dark:text-white\">internationale Steuerberatung, Visa und LLC-Gründung</strong> positioniert uns als die agile und personalisierte Alternative zu großen Kanzleien wie Deloitte oder CE Consulting.",
+    "paragraph2": "Unter der Leitung von Ismael L., Berater und CEO, entmystifiziert unser internationales Team die Steuerkomplexität für digitale Nomaden, Expats und Unternehmen. Wir sind nicht nur Berater; wir sind Strategen, die die Nuancen der <a href=\"https://www.oecd.org/tax/beps/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">BEPS-Vorschriften</a>, des Beckham-Gesetzes und der Doppelbesteuerung verstehen.",
+    "experience_title": "Nachgewiesene Erfahrung und globales Netzwerk",
+    "experience_desc": "Wir arbeiten mit einem Netzwerk von Anwälten, Zollagenten und Beratern mit jahrzehntelanger Erfahrung in internationaler Besteuerung, Verrechnungspreisen und Geschäftsexpansion zusammen. Dies ermöglicht es uns, umfassende Lösungen für die Gründung von LLCs, die Einhaltung von Vorschriften wie Pillar Two und DAC7 sowie die Verwaltung von Visa für digitale Nomaden mit einem praktischen und effizienten Ansatz anzubieten.",
+    "approach_title": "Umfassender und technologischer Ansatz",
+    "approach_desc": "Unsere Mission ist es, Rechtstechnologie mit strategischer Beratung zu verbinden, damit Sie Ihr Geschäft grenzenlos skalieren können. Wir bieten eine globale Perspektive von unseren Büros in den USA und Spanien aus und gewährleisten eine robuste internationale Steuerplanung und eine einwandfreie Ausführung, um Risiken zu minimieren und Ihre Effizienz zu maximieren.",
+    "cta_contact": "Kontaktieren Sie uns jetzt",
+    "cta_blog": "Entdecken Sie unseren Blog"
+  },
+  "partners": {
+    "title": "Unsere strategischen Partner",
+    "subtitle": "Wir arbeiten mit einem Netzwerk führender Fachleute zusammen, um Ihnen einen umfassenden und wettbewerbsfähigen Service zu bieten.",
+    "insurance_title": "Zugang zu über 60 Versicherern",
+    "insurance_desc": "Dank unserer Allianzen garantieren wir Ihnen die besten Marktkonditionen für eine breite Palette von Versicherungen: Haus, Gesundheit, Fahrzeug, Leben, Haftpflicht und Geschäft. Wir vergleichen und finden die ideale Option für Sie."
+  },
+  "guides": {
+    "title": "Kostenlose praktische Leitfäden",
+    "subtitle": "Laden Sie unsere exklusiven Ressourcen herunter und verschaffen Sie sich einen Wettbewerbsvorteil auf dem globalen Markt.",
+    "download_cta": "Leitfaden herunterladen",
+    "visas_guide_title": "Vollständiger Visa-Leitfaden",
+    "visas_guide_desc": "Alles, was Sie über Visa für digitale Nomaden, Investoren und Fachkräfte wissen müssen.",
+    "sl_vs_llc_usa_title": "Vergleich: SL vs. LLC USA",
+    "sl_vs_llc_usa_desc": "Wir analysieren die steuerlichen und rechtlichen Vorteile jeder Struktur, damit Sie die beste Option wählen können.",
+    "beps_guide_title": "Wesentlicher Leitfaden zu BEPS 2.0",
+    "beps_guide_desc": "Verstehen Sie, wie sich neue globale Steuervorschriften auf Ihr digitales Geschäft auswirken.",
+    "tourism_license_title": "Schlüssel-Tourismuslizenzen",
+    "tourism_license_desc": "Ein unverzichtbarer Leitfaden für die Verwaltung und steuerliche Optimierung von touristischen Immobilien.",
+    "germany_logistics_title": "Logistik in Deutschland: Leitfaden",
+    "germany_logistics_desc": "Optimieren Sie Ihre Transport- und Logistikoperationen im Herzen Europas."
+  },
+  "testimonials": {
+    "title": "Was sie über uns sagen",
+    "subtitle": "Kundenbewertungen"
+  },
+  "faq": {
+    "title": "Wir beantworten Ihre Fragen",
+    "subtitle": "Häufig gestellte Fragen zur globalen Beratung",
+    "description": "Finden Sie schnelle Antworten auf die häufigsten Fragen zu internationaler Besteuerung, globalem Wirtschaftsrecht und wie wir Ihnen helfen können.",
+    "footer_text": "Finden Sie Ihre Antwort nicht?",
+    "footer_link": "Kontaktieren Sie unsere Experten",
+    "footer_text_after": "für eine persönliche Beratung zu Ihrem spezifischen Fall.",
+    "categories": [
+      {
+        "category": "Allgemein",
+        "items": [
+          {
+            "question": "Welche Dienstleistungen bietet Consult Globallex an?",
+            "answer": "Internationale Steuerberatung für digitale Nomaden und Expats; Gründung und Verwaltung von S.L. in Spanien und LLC in den USA; BEPS-Compliance; Visa-Management; Buchhaltungs- und Steuerberatung für KMU und Freiberufler; strategische Rechtsberatung; Betrieb und Logistik in Deutschland; sowie Risikomanagement und Versicherungen."
+          },
+          {
+            "question": "Wie beginne ich die Zusammenarbeit mit Ihnen?",
+            "answer": "Füllen Sie das Formular 'Buchen Sie Ihr 15' KOSTENLOSES Mini-Audit' aus oder schreiben Sie uns an info@consultgloballex.com. Sie erhalten innerhalb von 24 Stunden ein personalisiertes Angebot."
+          },
+          {
+            "question": "In welchen Sprachen bieten Sie Unterstützung an?",
+            "answer": "Spanisch, Englisch und Französisch, sowohl schriftlich als auch per Videoanruf (Zoom, Teams) oder E-Mail."
+          }
+        ]
+      },
+      {
+        "category": "Internationale Mobilität und Aufenthalt",
+        "items": [
+          {
+            "question": "Was ist 'Internationale Residenz und Mobilität'?",
+            "answer": "Wir entwerfen und führen Ihre Strategie zum Wechsel des steuerlichen und rechtlichen Wohnsitzes zwischen Gerichtsbarkeiten für digitale Nomaden, Investoren und Fachkräfte mit den geringstmöglichen Auswirkungen durch."
+          },
+          {
+            "question": "Welche Visa bearbeiten Sie?",
+            "answer": "– Visa für digitale Nomaden und nicht lukrative Genehmigungen.\n– Aufenthaltsgenehmigungen durch Investition ('Golden Visa').\n– Bearbeitung nach dem Beckham-Gesetz und anderen Sonderregelungen."
+          },
+          {
+            "question": "Wie optimieren Sie meinen 'Steuertag'?",
+            "answer": "Wir planen Ihre Schlüsseldaten für den steuerlichen Wohnsitz und die wirtschaftliche Tätigkeit, um Ihre Steuerrechnung zu minimieren, ohne die Vorschriften zu verletzen."
+          },
+          {
+            "question": "Wie ist der Prozess für ein Golden Visa?",
+            "answer": "Wir analysieren Ihr Investitionsprofil (Immobilien, Fonds, Projekte), bereiten die Unterlagen vor und verwalten Ihren Antrag bis zur Erlangung des Aufenthalts."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Bereit, Ihre globale Strategie zu stärken?",
+    "description": "Kontaktieren Sie unsere Experten für eine kostenlose Erstberatung und entdecken Sie, wie wir Ihnen helfen können, Ihre internationalen Ziele zu erreichen.",
+    "form_name": "Name",
+    "form_email": "E-Mail",
+    "form_phone": "Telefon (optional)",
+    "form_service": "Interessierender Dienst",
+    "form_message": "Ihre Nachricht",
+    "form_submit": "Nachricht senden",
+    "form_success_title": "Nachricht gesendet!",
+    "form_success_desc": "Vielen Dank für Ihre Kontaktaufnahme. Wir werden uns in Kürze bei Ihnen melden.",
+    "form_error_title": "Fehler beim Senden",
+    "form_error_desc": "Es gab ein Problem. Bitte versuchen Sie es erneut.",
+    "form_validation": {
+        "name_required": "Name ist erforderlich.",
+        "email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "message_required": "Die Nachricht muss mindestens 10 Zeichen lang sein."
+    }
+  },
+  "footer": {
+    "description": "Steuer- und Rechtsberatung für eine Welt ohne Grenzen. Ihr strategischer Partner für globales Wachstum.",
+    "services": "Dienstleistungen",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "work_in_germany": {
+    "header_title": "Arbeiten in Deutschland mit GLOBALLEX CONSULTING",
+    "header_subtitle": "Wir verbinden spanische Talente mit deutschen Unternehmen. Umfassendes Management: rechtsgültiger Vertrag, Anmeldung, Bankkonto, Unterkunft, Transport und laufende Unterstützung.",
+    "candidates_title": "Suchen Sie Arbeit in Deutschland?",
+    "candidates_subtitle": "Wir helfen Ihnen, legal zu starten, ohne Erfahrung oder Deutschkenntnisse. Wir kümmern uns um alles:",
+    "candidates_benefits": [
+      "Vertragsunterzeichnung mit einem deutschen Unternehmen",
+      "Anmeldung bei der Sozialversicherung und Meldeamt",
+      "Eröffnung eines Bankkontos",
+      "Hilfe bei Unterkunft und Transport",
+      "Management von arbeits-/persönlichen Vorfällen",
+      "Kontinuierliche Kommunikation und Unterstützung in Ihrer Sprache"
+    ],
+    "form_title": "🔽 Bewerben Sie sich jetzt",
+    "companies_title": "Benötigt Ihr Unternehmen zuverlässiges spanisches Personal?",
+    "companies_subtitle": "Wir bieten ein komplettes internationales Arbeitsvermittlungssystem. Unser Team arbeitet von Spanien aus und hat eine Präsenz in Hamburg.",
+    "companies_benefits": [
+      "Kandidatenauswahl und Vorauswahl",
+      "Dokumentenmanagement: Anmeldung, Sozialversicherung, Bankkonto",
+      "Logistikorganisation (Transport und Unterkunft)",
+      "Störungsmanagement und laufende Unterstützung",
+      "Fließende Kommunikation mit den Arbeitnehmern",
+      "Skalierbarkeit bei Nachfragespitzen"
+    ],
+    "pricing_title": "Pauschalpreis: <1>100€/Monat</1> pro Arbeiter",
+    "pricing_subtitle": "Keine versteckten Kosten. Schnelle Antwort.",
+    "contact_cta": "Kontakt für Anstellung",
+    "sectors_title": "Sektoren mit hoher Nachfrage",
+    "sectors_subtitle": "Keine Vorkenntnisse oder Sprachkenntnisse erforderlich. Nur Arbeitswille!",
+    "sectors": [
+      { "title": "Logistik und Lager", "description": "Kommissionierung, Verpackung, Be- und Entladen." },
+      { "title": "Reinigung und Instandhaltung", "description": "Hotels, Büros, Gemeinschaften." },
+      { "title": "Gastgewerbe und Küche", "description": "Küchenhilfen, Zimmerservice." },
+      { "title": "Lieferung und Transport", "description": "Mit Transporter oder Fahrrad." },
+      { "title": "Bau und Renovierung", "description": "Allgemeine Arbeiten, Abriss, Malerarbeiten." },
+      { "title": "Altenpflege", "description": "Ungelernte Assistenten, Wohnheime." }
+    ],
+    "trust_elements": [
+      "+10 Jahre Erfahrung in der internationalen Personalvermittlung",
+      "Direkte Zusammenarbeit mit deutschen Unternehmen",
+      "Wir agieren von Spanien und Deutschland (Hamburg) aus"
+    ],
+    "why_us_title": "Warum GLOBALLEX?",
+    "why_us_points": [
+      "Umfangreiche internationale Erfahrung in der Personalvermittlung",
+      "Operative Präsenz in Deutschland (Hamburg)",
+      "Persönliche Betreuung auf Spanisch, Englisch, Deutsch und Italienisch",
+      "Begleitung und Unterstützung während des gesamten Prozesses",
+      "100% legaler und transparenter Prozess"
+    ],
+    "why_us_footer": "Mit uns arbeiten Menschen sicher und Unternehmen erhalten zuverlässiges Personal.",
+    "form": {
+      "name_label": "Vollständiger Name",
+      "email_label": "E-Mail",
+      "phone_label": "Telefon (WhatsApp)",
+      "sector_label": "Interessenbereich",
+      "sector_placeholder": "Wählen Sie einen Sektor",
+      "sector_options": [
+        "Logistik und Lager", "Reinigung und Instandhaltung", "Gastgewerbe und Küche",
+        "Lieferung und Transport", "Bau und Renovierung", "Altenpflege"
+      ],
+      "document_label": "Haben Sie einen gültigen Reisepass oder NIE?",
+      "document_placeholder": "Wählen Sie eine Option",
+      "document_yes": "Ja",
+      "document_no": "Nein",
+      "cv_label": "Fügen Sie Ihren Lebenslauf bei (PDF, max 5MB)",
+      "gdpr_notice": "Ihre Daten werden gemäß der DSGVO verarbeitet und nur für Personalauswahlzwecke verwendet.",
+      "submit_button": "Ich möchte in Deutschland arbeiten",
+      "submitting_button": "Senden",
+      "toast_success_title": "Bewerbung gesendet!",
+      "toast_success_desc": "Vielen Dank, wir werden Ihre Bewerbung in weniger als 48 Stunden prüfen.",
+      "toast_error_title": "Fehler beim Senden der Bewerbung",
+      "toast_error_desc": "Bei der Verarbeitung Ihrer Bewerbung ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.",
+      "validation": {
+        "name_required": "Vollständiger Name ist erforderlich.",
+        "email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "phone_required": "Telefonnummer ist erforderlich.",
+        "sector_required": "Sie müssen einen Sektor auswählen.",
+        "document_required": "Sie müssen eine Option auswählen.",
+        "cv_required": "Lebenslauf ist erforderlich.",
+        "cv_size": "Der Lebenslauf darf 5 MB nicht überschreiten.",
+        "cv_type": "Es werden nur PDF-Dateien akzeptiert."
+      }
+    }
+  },
+  "immigration_page": {
+    "hero": {
+      "title": "Einwanderung und Steuerlicher Wohnsitz",
+      "subtitle": "Wir optimieren Ihren Einwanderungs- und Steuerstatus. Experten für digitale Nomadenvisa, Beckham-Gesetz und Planung für Expats.",
+      "ctaText": "Kostenlose Beratung anfordern",
+      "ctaLink": "#contact"
+    },
+    "popup": {
+      "subtitle": "Interessiert an der Optimierung Ihres steuerlichen Wohnsitzes oder der Verwaltung Ihres Visums? Hinterlassen Sie uns Ihre Kontaktdaten.",
+      "footer": "Wir werden Sie für eine unverbindliche Erstberatung kontaktieren."
+    },
+    "benefits": [
+      { "title": "Steueroptimierung", "description": "Wir reduzieren Ihre globale Steuerlast durch Anwendung von Verträgen und Sonderregelungen wie dem Beckham-Gesetz.", "icon": "percent-circle" },
+      { "title": "Visa-Management", "description": "Wir beschleunigen die Erlangung Ihres digitalen Nomadenvisums, Ihrer nicht lukrativen Aufenthaltsgenehmigung oder Ihres Goldenen Visums.", "icon": "stamp" },
+      { "title": "Einhaltung von Vorschriften", "description": "Wir stellen sicher, dass Sie alle steuerlichen und einwanderungsrechtlichen Verpflichtungen in Spanien und im Ausland erfüllen.", "icon": "gavel" }
+    ],
+    "included": {
+      "title": "Was beinhaltet unser Einwanderungsservice?",
+      "includedItems": [
+        "Profilanalyse und Auswahl des besten Einwanderungsweges.",
+        "Vorbereitung und Einreichung von Visa-/Aufenthaltsanträgen.",
+        "Terminverwaltung und Vertretung vor Behörden.",
+        "Erlangung von NIE, TIE und EU-Bürgerregistrierung.",
+        "Steuertag-Planung zur Optimierung des steuerlichen Wohnsitzes.",
+        "Anwendung und Nachverfolgung des Impatriate-Regimes (Beckham-Gesetz)."
+      ],
+      "targetAudience": {
+        "title": "Für wen ist es?",
+        "description": "Dieser Service ist ideal für:",
+        "list": [
+          "Digitale Nomaden und Fernarbeiter.",
+          "Nach Spanien entsandte Expats.",
+          "Ausländische Investoren (Goldenes Visum).",
+          "Fachkräfte, die ihren steuerlichen Wohnsitz ändern möchten."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zur Einwanderung",
+      "faqs": [
+        { "question": "Wie lange dauert das Verfahren für das digitale Nomadenvisum?", "answer": "Die gesetzliche Frist beträgt 20 Arbeitstage ab Einreichung, kann aber variieren. Wir kümmern uns darum, es so schnell wie möglich zu erledigen." },
+        { "question": "Kann ich vom Beckham-Gesetz profitieren, wenn ich bereits in Spanien bin?", "answer": "Sie müssen es innerhalb von 6 Monaten nach Beginn Ihrer Tätigkeit in Spanien beantragen und dürfen in den letzten 5 Jahren kein Steuerinländer gewesen sein." }
+      ]
+    },
+    "contact": {
+      "title": "Starten Sie noch heute Ihren Einwanderungsprozess",
+      "cta": "Füllen Sie das Formular aus und ein Einwanderungsexperte wird Sie kontaktieren.",
+      "serviceName": "Einwanderung und Steuerlicher Wohnsitz"
+    }
+  },
+  "company_formation_page": {
+    "hero": {
+      "title": "Unternehmensgründung: SL in Spanien & LLC in den USA",
+      "subtitle": "Wir schaffen Ihre ideale Unternehmensstruktur für den globalen Betrieb. Schnell, online und unkompliziert für Nichtansässige.",
+      "ctaText": "Jetzt mein Unternehmen gründen",
+      "ctaLink": "#contact"
+    },
+    "popup": {
+      "subtitle": "Bereit, Ihr Unternehmen zu gründen? Wir helfen Ihnen bei der Wahl der besten Struktur. Hinterlassen Sie uns Ihre E-Mail.",
+      "footer": "Wir senden Ihnen einen kostenlosen Vergleich zwischen SL und LLC."
+    },
+    "benefits": [
+      { "title": "Globaler Betrieb", "description": "Eine LLC in den USA ermöglicht es Ihnen, weltweit mit optimierter Besteuerung und minimalem Verwaltungsaufwand Rechnungen zu stellen.", "icon": "globe" },
+      { "title": "Vermögensschutz", "description": "Sowohl die SL als auch die LLC beschränken Ihre persönliche Haftung und schützen Ihr Vermögen vor Geschäftsschulden.", "icon": "shield-check" },
+      { "title": "Vereinfachter Prozess", "description": "Wir verwalten den gesamten Prozess zu 100 % online, von der Registrierung bis zur Eröffnung eines Bankkontos.", "icon": "rocket" }
+    ],
+    "included": {
+      "title": "Was beinhaltet unser Gründungsservice?",
+      "includedItems": [
+        "Beratung bei der Wahl zwischen SL (Spanien) und LLC (USA).",
+        "Reservierung des Firmennamens.",
+        "Erstellung von Satzung und Gesellschaftervertrag.",
+        "Erlangung von NIF/EIN und Eintragung im Handelsregister.",
+        "Anmeldung bei der Steuerbehörde und Sozialversicherung (für SL).",
+        "Eröffnung eines Mehrwährungsbankkontos (Wise, Mercury, etc.)."
+      ],
+      "targetAudience": {
+        "title": "Für wen ist es?",
+        "description": "Perfekt für:",
+        "list": [
+          "Digitale Unternehmer und Freiberufler.",
+          "Unternehmen, die international expandieren möchten.",
+          "Berater, Coaches und Content-Ersteller.",
+          "Investoren auf dem amerikanischen oder europäischen Markt."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zu Unternehmen",
+      "faqs": [
+        { "question": "Muss ich reisen, um eine LLC in den USA zu gründen?", "answer": "Nein, der gesamte Prozess wird zu 100 % remote durchgeführt. Sie müssen die Vereinigten Staaten nicht betreten." },
+        { "question": "Welche Steuern zahlt eine LLC eines Nichtansässigen?", "answer": "Wenn Sie keine physische Präsenz oder Mitarbeiter in den USA haben (ETBUS), zahlt eine Ein-Personen-LLC eines Ausländers keine Einkommensteuer in den USA. Es wird nur eine Informationserklärung eingereicht." }
+      ]
+    },
+    "contact": {
+      "title": "Starten Sie Ihr globales Geschäft",
+      "cta": "Kontaktieren Sie uns und wir gründen Ihr Unternehmen in Rekordzeit.",
+      "serviceName": "Unternehmensgründung"
+    }
+  },
+  "international_tax_page": {
+    "hero": {
+      "title": "Internationale Steuerberatung",
+      "subtitle": "Wir navigieren durch die Komplexität der globalen Besteuerung, um Ihre Effizienz zu maximieren. Experten für BEPS, Pillar Two und Doppelbesteuerung.",
+      "ctaText": "Meine Steuern optimieren",
+      "ctaLink": "#contact"
+    },
+    "popup": {
+      "subtitle": "Zahlen Sie Steuern in mehreren Ländern? Wir können Ihnen helfen, Ihre Steuerlast zu reduzieren. Sprechen Sie mit einem Experten.",
+      "footer": "Vorläufige Analyse ohne Kosten."
+    },
+    "benefits": [
+      { "title": "Reduzierung der Steuerlast", "description": "Wir wenden Doppelbesteuerungsabkommen und Planungsstrategien an, um Ihre Steuern legal zu minimieren.", "icon": "trending-down" },
+      { "title": "Rechtssicherheit", "description": "Wir gewährleisten die Einhaltung komplexer Vorschriften wie BEPS 2.0 und DAC7 und vermeiden Strafen.", "icon": "file-check" },
+      { "title": "Effiziente Strukturen", "description": "Wir entwerfen Unternehmensstrukturen (Holdings, Niederlassungen), die den Gewinnfluss weltweit optimieren.", "icon": "network" }
+    ],
+    "included": {
+      "title": "Was beinhaltet unsere internationale Steuerberatung?",
+      "includedItems": [
+        "Analyse Ihrer aktuellen Struktur und Risikoidentifikation.",
+        "Steuerplanung für grenzüberschreitende Operationen.",
+        "Beratung zu Verrechnungspreisen.",
+        "Einhaltung von BEPS 2.0 (Pillar Two) und anderen Vorschriften.",
+        "Beratung zur Anwendung von Doppelbesteuerungsabkommen.",
+        "Strategien zur Gewinnrückführung."
+      ],
+      "targetAudience": {
+        "title": "Für wen ist es?",
+        "description": "Unerlässlich für:",
+        "list": [
+          "Unternehmen mit Niederlassungen in mehreren Ländern.",
+          "Digitale und E-Commerce-Unternehmen mit internationalen Kunden.",
+          "Expats mit Vermögen oder Einkommen im Ausland.",
+          "Holdings und Unternehmensgruppen."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zur internationalen Besteuerung",
+      "faqs": [
+        { "question": "Was ist BEPS?", "answer": "BEPS (Base Erosion and Profit Shifting) ist ein OECD-Projekt, um zu verhindern, dass multinationale Unternehmen Gewinne in Niedrig- oder Nullsteuer-Jurisdiktionen verlagern. Es beeinflusst, wie Gewinne weltweit strukturiert und deklariert werden." },
+        { "question": "Wie wirkt sich ein Doppelbesteuerungsabkommen auf mich aus?", "answer": "Ein Abkommen verhindert, dass Sie für dasselbe Einkommen in zwei verschiedenen Ländern Steuern zahlen. Es legt fest, welches Land das Recht hat, jede Art von Einkommen zu besteuern, und bietet Mechanismen zur Beseitigung der Doppelbesteuerung." }
+      ]
+    },
+    "contact": {
+      "title": "Übernehmen Sie die Kontrolle über Ihre globale Besteuerung",
+      "cta": "Lassen Sie uns Ihren Fall analysieren und wir schlagen Ihnen eine maßgeschneiderte Strategie vor.",
+      "serviceName": "Internationale Steuerberatung"
+    }
+  },
+  "germany_logistics_page": {
+    "hero": {
+      "title": "Logistik und Transport in Deutschland",
+      "subtitle": "Ihr strategischer Partner für den Betrieb im Herzen Europas. Gründung, Lizenzen und Einhaltung von Vorschriften für Ihr Logistikgeschäft.",
+      "ctaText": "Mein Geschäft nach Deutschland erweitern",
+      "ctaLink": "#contact"
+    },
+    "popup": {
+      "subtitle": "Möchten Sie Ihr Transportunternehmen in Deutschland betreiben? Wir führen Sie durch den gesamten Prozess. Fordern Sie Informationen an.",
+      "footer": "Wir beantworten Ihre Fragen zu Lizenzen und deutschen Vorschriften."
+    },
+    "benefits": [
+      { "title": "Zugang zum deutschen Markt", "description": "Wir erleichtern Ihren schnellen und legalen Eintritt und Betrieb auf dem größten Logistikmarkt Europas.", "icon": "map" },
+      { "title": "Vollständige Einhaltung", "description": "Wir gewährleisten die Einhaltung der strengen deutschen (Lieferkettengesetz) und europäischen Vorschriften.", "icon": "clipboard-check" },
+      { "title": "Umfassendes Management", "description": "Wir kümmern uns um alles: Unternehmensgründung (GmbH), Transportlizenzen und Steueroptimierung.", "icon": "settings" }
+    ],
+    "included": {
+      "title": "Was beinhaltet unser Logistikservice in Deutschland?",
+      "includedItems": [
+        "Gründung einer deutschen Gesellschaft (GmbH, UG).",
+        "Erlangung der Gemeinschaftstransportlizenz.",
+        "Beratung zum Lieferkettengesetz.",
+        "Verwaltung spezifischer Transportsteuern (Maut).",
+        "Steueroptimierung von Logistikoperationen.",
+        "Rechtliche Unterstützung bei Verträgen mit deutschen Kunden und Lieferanten."
+      ],
+      "targetAudience": {
+        "title": "Für wen ist es?",
+        "description": "Speziell entwickelt für:",
+        "list": [
+          "Straßengüterverkehrsunternehmen.",
+          "Logistikbetreiber, die nach Deutschland expandieren möchten.",
+          "E-Commerce-Unternehmen, die ein Logistikzentrum in Europa benötigen.",
+          "Unternehmen, die aus/nach Deutschland importieren oder exportieren."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zur Logistik in Deutschland",
+      "faqs": [
+        { "question": "Ist es zwingend erforderlich, ein Unternehmen in Deutschland zu haben, um dort tätig zu sein?", "answer": "Nicht immer, aber eine deutsche Tochtergesellschaft (GmbH) vereinfacht den Betrieb, die Einstellung und die Beziehungen zu lokalen Kunden und Behörden erheblich. Es ist die empfehlenswerteste Option für einen stabilen Betrieb." },
+        { "question": "Was ist 'Maut'?", "answer": "Es ist die obligatorische elektronische Maut für Lkw auf deutschen Autobahnen und Bundesstraßen. Die korrekte Verwaltung und Zahlung ist unerlässlich, um Strafen zu vermeiden." }
+      ]
+    },
+    "contact": {
+      "title": "Erobern Sie den deutschen Logistikmarkt",
+      "cta": "Kontaktieren Sie unsere Experten und entwerfen Sie Ihren Expansionsplan.",
+      "serviceName": "Logistik und Transport in Deutschland"
+    }
+  },
+  "spain_fiscal_page": {
+    "hero": {
+      "title": "Steuer-, Rechnungs- und Zollverwaltung in Spanien",
+      "subtitle": "Die Gewissheit, dass Ihre Steuern und Buchhaltung auf dem neuesten Stand sind. Spezialisten für Freiberufler, KMU und Operationen auf den Kanarischen Inseln.",
+      "ctaText": "Unverbindliches Angebot anfordern",
+      "ctaLink": "#contact"
+    },
+    "popup": {
+      "subtitle": "Überfordert mit dem Papierkram? Überlassen Sie Ihre Buchhaltung und Steuern Experten. Lassen Sie uns reden.",
+      "footer": "Wir bieten eine erste kostenlose Steuerprüfung an."
+    },
+    "benefits": [
+      { "title": "Sparen Sie Zeit und Geld", "description": "Wir optimieren Ihre Erklärungen, damit Sie das zahlen, was fair ist, und befreien Sie von der Bürokratie, damit Sie sich auf Ihr Geschäft konzentrieren können.", "icon": "clock" },
+      { "title": "Erfahrung auf den Kanarischen Inseln", "description": "Wir beherrschen die Besonderheiten des Wirtschafts- und Steuerregimes (REF) der Kanarischen Inseln: IGIC, ZEC, RIC.", "icon": "sun" },
+      { "title": "Zollverwaltung", "description": "Wir vereinfachen Ihre Importe und Exporte mit einer agilen Verwaltung von DUA, EORI und ROI.", "icon": "ship" }
+    ],
+    "included": {
+      "title": "Was beinhaltet unsere umfassende Verwaltung?",
+      "includedItems": [
+        "Offizielle Buchhaltung gemäß dem Allgemeinen Kontenplan.",
+        "Einreichung von vierteljährlichen und jährlichen Steuern (MwSt., IRPF, IS).",
+        "Verwaltung der An-/Abmeldung im ROI (Register der innergemeinschaftlichen Operateure).",
+        "Erstellung und Einreichung des DUA für Import/Export.",
+        "Erlangung und Verwaltung der EORI-Nummer.",
+        "Kontinuierliche Steuerberatung und -planung."
+      ],
+      "targetAudience": {
+        "title": "Für wen ist es?",
+        "description": "Die perfekte Lösung für:",
+        "list": [
+          "Freiberufler und Selbstständige.",
+          "Kleine und mittlere Unternehmen (KMU).",
+          "E-Commerce-Unternehmen mit Verkäufen auf den Kanarischen Inseln oder im Ausland.",
+          "Unternehmen, die Waren importieren oder exportieren."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zur Verwaltung in Spanien",
+      "faqs": [
+        { "question": "Was ist IGIC?", "answer": "Die IGIC (Allgemeine Indirekte Kanarische Steuer) ist die Steuer, die der Mehrwertsteuer entspricht und auf den Kanarischen Inseln gilt, mit unterschiedlichen Steuersätzen und einer spezifischen Verwaltung." },
+        { "question": "Benötige ich den ROI, wenn ich nur digitale Dienstleistungen verkaufe?", "answer": "Ja, wenn Sie Dienstleistungen von Unternehmen in anderen EU-Ländern erbringen oder beziehen, müssen Sie im ROI registriert sein, damit Rechnungen korrekt ohne Mehrwertsteuer (mit Umkehrung der Steuerschuldnerschaft) ausgestellt werden." }
+      ]
+    },
+    "contact": {
+      "title": "Ihre Buchhaltung und Besteuerung, gelöst",
+      "cta": "Fordern Sie Ihr persönliches Angebot an und vergessen Sie die Sorgen.",
+      "serviceName": "Steuer- und Rechnungswesen in Spanien"
+    }
+  },
+  "insurance_page": {
+    "hero": {
+      "title": "Versicherungen für Expats und globale Unternehmen",
+      "subtitle": "Der Schutz, den Sie benötigen, um ohne Grenzen zu leben und zu arbeiten. Kranken-, Haftpflicht- und Schutzversicherungen für Ihr Unternehmen.",
+      "ctaText": "Meine ideale Versicherung finden",
+      "ctaLink": "#contact"
+    },
+    "popup": {
+      "subtitle": "Leben Sie im Ausland oder haben Sie ein globales Geschäft? Schützen Sie sich mit der richtigen Versicherung. Wir beraten Sie.",
+      "footer": "Kostenloser Vergleich der besten Optionen für Ihr Profil."
+    },
+    "benefits": [
+      { "title": "Internationale Deckung", "description": "Greifen Sie auf ein erstklassiges globales medizinisches Netzwerk zu und sichern Sie Ihre Ruhe, wo immer Sie sind.", "icon": "heart-pulse" },
+      { "title": "Unternehmensschutz", "description": "Wir schützen Ihr Geschäft mit Berufshaftpflicht-, Cyber-Risiko- und Transportversicherungen.", "icon": "building" },
+      { "title": "Expertenberatung", "description": "Wir analysieren Ihre Bedürfnisse und bieten Ihnen einen unabhängigen Vergleich der besten Policen auf dem Markt.", "icon": "user-check" }
+    ],
+    "included": {
+      "title": "Was beinhaltet unser Versicherungsservice?",
+      "includedItems": [
+        "Analyse Ihrer persönlichen und geschäftlichen Bedürfnisse.",
+        "Vergleich von mehr als 60 führenden Versicherern.",
+        "Verwaltung des Vertragsabschlusses.",
+        "Unterstützung bei der Verwaltung von Schadensfällen.",
+        "Internationale Krankenversicherung für Expats.",
+        "Berufshaftpflichtversicherung für Berater und Unternehmen."
+      ],
+      "targetAudience": {
+        "title": "Für wen ist es?",
+        "description": "Unerlässlich für:",
+        "list": [
+          "Expats und ihre Familien.",
+          "Digitale Nomaden, die ständig reisen.",
+          "Unternehmen mit Niederlassungen oder Mitarbeitern im Ausland.",
+          "Berater und Freiberufler, die für internationale Kunden arbeiten."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zu Versicherungen",
+      "faqs": [
+        { "question": "Ist eine Reiseversicherung dasselbe wie eine Krankenversicherung für Expats?", "answer": "Nein. Eine Reiseversicherung deckt Notfälle für einen kurzen Zeitraum ab. Eine Expat-Krankenversicherung bietet eine vollständige, langfristige medizinische Deckung, ähnlich der Sozialversicherung, aber auf internationaler Ebene." },
+        { "question": "Warum brauche ich eine Berufshaftpflichtversicherung?", "answer": "Wenn Sie bei Ihrer Arbeit einen Fehler machen, der einem Kunden einen finanziellen Schaden zufügt, deckt diese Versicherung die Entschädigung und schützt Ihr Vermögen. Viele internationale Kunden verlangen sie, um Sie einzustellen." }
+      ]
+    },
+    "contact": {
+      "title": "Sichern Sie Ihre globale Ruhe",
+      "cta": "Lassen Sie uns den perfekten Schutz für Sie und Ihr Unternehmen finden.",
+      "serviceName": "Versicherungen für Expats und Unternehmen"
+    }
+  }
+}

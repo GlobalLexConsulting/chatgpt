@@ -1,0 +1,288 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Servizi",
+    "llc_usa": "LLC USA",
+    "about": "Chi siamo",
+    "partners": "Partner",
+    "testimonials": "Testimonianze",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contatti",
+    "clients": "Clienti",
+    "free_consultation": "Consulenza Gratuita"
+  },
+  "hero": {
+    "title": "Consulenza Fiscale Internazionale, Visti e Costituzione LLC",
+    "subtitle": "Il nostro studio offre consulenza fiscale internazionale, servizi per visti e costituzione di LLC. Siamo esperti in pianificazione fiscale, conformità normativa e strutture societarie per imprese digitali e nomadi.",
+    "cta_main": "Prenota il tuo mini-audit di 15'",
+    "cta_secondary": "Invia Richiesta"
+  },
+  "services": {
+    "title": "Soluzioni Complete per la Tua Espansione Globale",
+    "subtitle": "Dalla costituzione della tua azienda alla pianificazione fiscale internazionale, ti copriamo noi.",
+    "service_residency_title": "Immigrazione e Residenza Fiscale",
+    "service_residency_desc": "Gestiamo visti, permessi di soggiorno e ottimizziamo la tua situazione fiscale come espatriato o nomade digitale.",
+    "service_residency_points": [
+      "Visto per Nomadi Digitali in Spagna e altri paesi",
+      "Applicazione della Legge Beckham",
+      "Ottenimento di NIE e residenza",
+      "Pianificazione fiscale di ingresso e uscita"
+    ],
+    "service_incorporation_title": "Costituzione di Società (SL, LLC)",
+    "service_incorporation_desc": "Creiamo la struttura societaria che meglio si adatta alla tua attività, in Spagna (SL) o negli USA (LLC).",
+    "service_incorporation_points": [
+      "Costituzione di LLC negli USA per non residenti",
+      "Costituzione di Società a Responsabilità Limitata (SL) in Spagna",
+      "Consulenza sulla scelta della struttura ottimale",
+      "Gestione di conti correnti aziendali"
+    ],
+    "service_tax_title": "Consulenza Fiscale Internazionale",
+    "service_tax_desc": "Navighiamo la complessità della tassazione internazionale per minimizzare il tuo carico fiscale e garantire la conformità.",
+    "service_tax_points": [
+      "Pianificazione fiscale internazionale (BEPS, Pillar Two)",
+      "Dichiarazioni dei redditi per espatriati",
+      "Trattati sulla doppia imposizione",
+      "Conformità alle normative (DAC7, ecc.)"
+    ],
+    "service_legal_title": "Consulenza Legale e Commerciale",
+    "service_legal_desc": "Offriamo supporto legale completo per le tue operazioni commerciali e personali a livello globale.",
+    "service_legal_points": [
+      "Redazione e revisione di contratti commerciali",
+      "Consulenza sulla protezione dei dati (GDPR)",
+      "Supporto in operazioni di M&A",
+      "Risoluzione di controversie commerciali"
+    ],
+    "service_germany_title": "Logistica e Trasporti in Germania",
+    "service_germany_desc": "Consulenza specializzata per aziende di logistica e trasporti che operano o vogliono operare in Germania.",
+    "service_germany_points": [
+      "Costituzione di società in Germania",
+      "Conformità alla legge sulla catena di fornitura",
+      "Gestione di licenze e permessi di trasporto",
+      "Ottimizzazione fiscale delle operazioni logistiche"
+    ],
+    "service_insurance_title": "Assicurazioni per Espatriati",
+    "service_insurance_desc": "Ti aiutiamo a trovare la copertura sanitaria e di responsabilità civile perfetta per la tua vita all'estero.",
+    "service_insurance_points": [
+      "Assicurazioni sanitarie internazionali",
+      "Polizze di responsabilità civile professionale",
+      "Assicurazioni di viaggio e rimpatrio",
+      "Confronto delle migliori opzioni di mercato"
+    ],
+    "service_work_germany_title": "Lavoro in Germania: Collocamento Legale",
+    "service_work_germany_desc": "Mettiamo in contatto talenti spagnoli con aziende tedesche. Gestione completa del processo.",
+    "service_work_germany_points": [
+      "Contratto legale e iscrizione alla Sicurezza Sociale",
+      "Supporto per la registrazione anagrafica e conto bancario",
+      "Assistenza per alloggio e trasporti",
+      "Comunicazione e supporto continui nella tua lingua"
+    ],
+    "start_process_cta": "Inizia il tuo processo",
+    "request_quote_cta": "Richiedi un preventivo",
+    "locations_title": "Le Nostre Sedi",
+    "locations_list": "USA e Spagna, con una rete di collaboratori in tutta Europa.",
+    "languages_title": "Lingue",
+    "languages_list": "Spagnolo, Inglese, Tedesco, Italiano.",
+    "cta": "Pronto a portare la tua attività al livello successivo?",
+    "why_us_title": "Perché Scegliere Consult Globallex?",
+    "why_us_subtitle": "Siamo più di semplici consulenti. Siamo i tuoi partner strategici nel complesso panorama globale.",
+    "why_us_point1_title": "Esperienza e Specializzazione",
+    "why_us_point1_desc": "Il nostro team combina decenni di esperienza in fiscalità, diritto commerciale e immigrazione, offrendo soluzioni collaudate ed efficaci.",
+    "why_us_point2_title": "Approccio Globale, Tocco Personale",
+    "why_us_point2_desc": "Comprendiamo le sfumature di molteplici giurisdizioni, ma ti offriamo un unico punto di contatto e un trattamento vicino e personalizzato.",
+    "why_us_point3_title": "Agilità e Trasparenza",
+    "why_us_point3_desc": "Siamo un'alternativa moderna alle grandi società di consulenza. Processi agili, tecnologia all'avanguardia e prezzi chiari senza sorprese."
+  },
+  "about": {
+    "title": "Il Tuo Partner Strategico in un Mondo Connesso",
+    "subtitle": "Guidato da Ismael L., il nostro team internazionale demistifica la complessità fiscale e legale per permetterti di espanderti senza confini.",
+    "paragraph1": "In un mondo interconnesso, una corretta pianificazione fiscale e legale non è un'opzione, è una necessità. <strong>ConsultGlobalLex</strong> nasce dalla visione di offrire una consulenza altamente specializzata, accessibile e adattata alla nuova economia digitale. La nostra specializzazione in <strong class=\"font-semibold text-gray-800 dark:text-white\">consulenza fiscale internazionale, visti e costituzione di LLC</strong> ci posiziona come l'alternativa agile e personalizzata a grandi studi come Deloitte o CE Consulting.",
+    "paragraph2": "Guidato da Ismael L., Consulente e CEO, il nostro team internazionale demistifica la complessità fiscale per nomadi digitali, espatriati e aziende. Non siamo solo consulenti; siamo strateghi che comprendono le sfumature della <a href=\"https://www.oecd.org/tax/beps/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">normativa BEPS</a>, della Legge Beckham e della doppia imposizione.",
+    "experience_title": "Esperienza Comprovata e Rete Globale",
+    "experience_desc": "Collaboriamo con una rete di avvocati, agenti doganali e consulenti con decenni di esperienza in fiscalità internazionale, prezzi di trasferimento ed espansione aziendale. Ciò ci consente di offrire soluzioni complete per la costituzione di LLC, la conformità a normative come Pillar Two e DAC7 e la gestione di visti per nomadi digitali, con un approccio pratico ed efficiente.",
+    "approach_title": "Approccio Integrale e Tecnologico",
+    "approach_desc": "La nostra missione è fondere la tecnologia legale con una consulenza strategica per permetterti di scalare la tua attività senza confini. Offriamo una prospettiva globale dalle nostre sedi negli Stati Uniti e in Spagna, garantendo una solida pianificazione fiscale internazionale e un'esecuzione impeccabile per minimizzare i rischi e massimizzare la tua efficienza.",
+    "cta_contact": "Contattaci Ora",
+    "cta_blog": "Esplora il Nostro Blog"
+  },
+  "partners": {
+    "title": "I Nostri Partner Strategici",
+    "subtitle": "Collaboriamo con una rete di professionisti leader per offrirti un servizio completo e competitivo.",
+    "insurance_title": "Accesso a oltre 60 Assicuratori",
+    "insurance_desc": "Grazie alle nostre alleanze, ti garantiamo le migliori condizioni di mercato per una vasta gamma di assicurazioni: Casa, Salute, Veicoli, Vita, Responsabilità Civile e Aziendali. Confrontiamo e troviamo l'opzione ideale per te."
+  },
+  "guides": {
+    "title": "Guide Pratiche Gratuite",
+    "subtitle": "Scarica le nostre risorse esclusive e ottieni un vantaggio competitivo nel mercato globale.",
+    "download_cta": "Scarica Guida",
+    "visas_guide_title": "Guida Completa ai Visti",
+    "visas_guide_desc": "Tutto ciò che devi sapere sui visti per nomadi digitali, investitori e professionisti.",
+    "sl_vs_llc_usa_title": "Confronto: SL vs LLC USA",
+    "sl_vs_llc_usa_desc": "Analizziamo i vantaggi fiscali e legali di ciascuna struttura per aiutarti a scegliere l'opzione migliore.",
+    "beps_guide_title": "Guida Essenziale a BEPS 2.0",
+    "beps_guide_desc": "Comprendi come le nuove normative fiscali globali influenzano la tua attività digitale.",
+    "tourism_license_title": "Licenze Turistiche: Chiavi",
+    "tourism_license_desc": "Una guida indispensabile per la gestione e l'ottimizzazione fiscale delle proprietà turistiche.",
+    "germany_logistics_title": "Logistica in Germania: Guida",
+    "germany_logistics_desc": "Ottimizza le tue operazioni di trasporto e logistica nel cuore dell'Europa."
+  },
+  "testimonials": {
+    "title": "Cosa dicono di noi",
+    "subtitle": "Recensioni dei Clienti"
+  },
+  "faq": {
+    "title": "Rispondiamo ai Tuoi Dubbi",
+    "subtitle": "Domande Frequenti sulla Consulenza Globale",
+    "description": "Trova risposte rapide alle domande più comuni su fiscalità internazionale, diritto commerciale globale e come possiamo aiutarti.",
+    "footer_text": "Non trovi la tua risposta?",
+    "footer_link": "Contatta i nostri esperti",
+    "footer_text_after": "per una consulenza personalizzata sul tuo caso specifico.",
+    "categories": [
+      {
+        "category": "Generale",
+        "items": [
+          {
+            "question": "Quali servizi offre Consult Globallex?",
+            "answer": "Consulenza fiscale internazionale per nomadi digitali ed espatriati; costituzione e gestione di S.L. in Spagna e LLC negli USA; conformità BEPS; gestione visti; consulenza contabile e fiscale per PMI e liberi professionisti; consulenza legale strategica; operazioni e logistica in Germania; e gestione del rischio e assicurazioni."
+          },
+          {
+            "question": "Come inizio a lavorare con voi?",
+            "answer": "Compila il modulo 'Prenota il tuo mini-audit di 15' GRATIS' o scrivici a info@consultgloballex.com. Riceverai una proposta personalizzata in meno di 24 ore."
+          },
+          {
+            "question": "In quali lingue offrite assistenza?",
+            "answer": "Spagnolo, inglese e francese, sia per iscritto che tramite videochiamata (Zoom, Teams) o email."
+          }
+        ]
+      },
+      {
+        "category": "Mobilità e Residenza Internazionale",
+        "items": [
+          {
+            "question": "Cos'è la 'Residenza e Mobilità Internazionale'?",
+            "answer": "Progettiamo ed eseguiamo la tua strategia di cambio di residenza fiscale e legale tra giurisdizioni, per nomadi digitali, investitori e professionisti, con il minor impatto possibile."
+          },
+          {
+            "question": "Quali visti gestite?",
+            "answer": "– Visti per nomadi digitali e permessi non lucrativi.\n– Residenze per investimento ('Golden Visa').\n– Pratiche secondo la Legge Beckham e altri regimi speciali."
+          },
+          {
+            "question": "Come ottimizzate il mio 'tax-day'?",
+            "answer": "Pianifichiamo le tue date chiave di residenza fiscale e attività economica per minimizzare il tuo onere fiscale senza violare la normativa."
+          },
+          {
+            "question": "Qual è il processo per una Golden Visa?",
+            "answer": "Analizziamo il tuo profilo di investimento (immobili, fondi, progetti), prepariamo la documentazione e gestiamo la tua richiesta fino all'ottenimento della residenza."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Pronto a Potenziare la Tua Strategia Globale?",
+    "description": "Contatta i nostri esperti per una consulenza iniziale gratuita e scopri come possiamo aiutarti a raggiungere i tuoi obiettivi internazionali.",
+    "form_name": "Nome",
+    "form_email": "Email",
+    "form_phone": "Telefono (Opzionale)",
+    "form_service": "Servizio di Interesse",
+    "form_message": "Il tuo messaggio",
+    "form_submit": "Invia Messaggio",
+    "form_success_title": "Messaggio Inviato!",
+    "form_success_desc": "Grazie per averci contattato. Ti risponderemo a breve.",
+    "form_error_title": "Errore nell'Invio",
+    "form_error_desc": "C'è stato un problema. Per favore, riprova."
+  },
+  "footer": {
+    "description": "Consulenza fiscale e legale per un mondo senza confini. Il tuo partner strategico per la crescita globale.",
+    "services": "Servizi",
+    "company": "Azienda",
+    "legal": "Legale",
+    "rights": "Tutti i diritti riservati."
+  },
+  "work_in_germany": {
+    "header_title": "Lavora in Germania con GLOBALLEX CONSULTING",
+    "header_subtitle": "Mettiamo in contatto personale spagnolo con aziende tedesche. Gestione completa: contratto legale, registrazione anagrafica, conto bancario, alloggio, trasporti e supporto continuo.",
+    "candidates_title": "Cerchi lavoro in Germania?",
+    "candidates_subtitle": "Ti aiutiamo a iniziare legalmente, senza bisogno di esperienza o tedesco. Ci occupiamo di tutto:",
+    "candidates_benefits": [
+      "Firma del contratto con un'azienda tedesca",
+      "Iscrizione alla Sicurezza Sociale e registrazione anagrafica",
+      "Apertura di un conto bancario",
+      "Assistenza per alloggio e trasporti",
+      "Gestione di incidenti lavorativi/personali",
+      "Comunicazione e supporto continui nella tua lingua"
+    ],
+    "form_title": "🔽 Invia la tua candidatura ora",
+    "companies_title": "La sua azienda ha bisogno di personale spagnolo affidabile?",
+    "companies_subtitle": "Offriamo un sistema completo di collocamento lavorativo internazionale. Il nostro team opera dalla Spagna e ha una presenza ad Amburgo.",
+    "companies_benefits": [
+      "Selezione e pre-screening dei candidati",
+      "Gestione documentale: registrazione anagrafica, SS, conto bancario",
+      "Organizzazione logistica (trasporti e alloggio)",
+      "Gestione degli incidenti e supporto continuo",
+      "Comunicazione fluida con i lavoratori",
+      "Scalabilità nei picchi di domanda"
+    ],
+    "pricing_title": "Tariffa fissa: <1>100€/mese</1> per lavoratore",
+    "pricing_subtitle": "Nessun costo nascosto. Risposta rapida.",
+    "contact_cta": "Contatta per Assunzioni",
+    "sectors_title": "Settori ad alta richiesta",
+    "sectors_subtitle": "Non è richiesta esperienza pregressa né conoscenza della lingua. Solo voglia di lavorare!",
+    "sectors": [
+      { "title": "Logistica e magazzini", "description": "Picking, imballaggio, carico e scarico." },
+      { "title": "Pulizia e manutenzione", "description": "Hotel, uffici, comunità." },
+      { "title": "Ristorazione e cucina", "description": "Aiuto cuoco, servizio in camera." },
+      { "title": "Consegne e trasporti", "description": "Con furgone o bicicletta." },
+      { "title": "Edilizia e ristrutturazioni", "description": "Manodopera generica, demolizione, pittura." },
+      { "title": "Assistenza agli anziani", "description": "Assistenti senza qualifica, case di riposo." }
+    ],
+    "trust_elements": [
+      "+10 anni di esperienza nel reclutamento internazionale",
+      "Collaborazione diretta con aziende tedesche",
+      "Operiamo dalla Spagna e dalla Germania (Amburgo)"
+    ],
+    "why_us_title": "Perché GLOBALLEX?",
+    "why_us_points": [
+      "Vasta esperienza internazionale nel collocamento del personale",
+      "Presenza operativa in Germania (Amburgo)",
+      "Attenzione personalizzata in spagnolo, inglese, tedesco e italiano",
+      "Monitoraggio e supporto durante tutto il processo",
+      "Processo 100% legale e trasparente"
+    ],
+    "why_us_footer": "Con noi, le persone lavorano in sicurezza e le aziende ricevono personale affidabile.",
+    "form": {
+      "name_label": "Nome completo",
+      "email_label": "Email",
+      "phone_label": "Telefono (WhatsApp)",
+      "sector_label": "Settore di interesse",
+      "sector_placeholder": "Seleziona un settore",
+      "sector_options": [
+        "Logistica e magazzini", "Pulizia e manutenzione", "Ristorazione e cucina",
+        "Consegne e trasporti", "Edilizia e ristrutturazioni", "Assistenza agli anziani"
+      ],
+      "document_label": "Hai un passaporto o NIE valido?",
+      "document_placeholder": "Seleziona un'opzione",
+      "document_yes": "Sì",
+      "document_no": "No",
+      "cv_label": "Allega il tuo CV (PDF, max 5MB)",
+      "gdpr_notice": "I tuoi dati saranno trattati in conformità al GDPR e utilizzati solo a scopo di selezione del personale.",
+      "submit_button": "Voglio lavorare in Germania",
+      "submitting_button": "Invio in corso",
+      "toast_success_title": "Candidatura Inviata!",
+      "toast_success_desc": "Grazie, esamineremo la tua candidatura in meno di 48 ore.",
+      "toast_error_title": "Errore nell'invio della candidatura",
+      "toast_error_desc": "Si è verificato un problema durante l'elaborazione della tua candidatura. Per favore, riprova.",
+      "validation": {
+        "name_required": "Il nome completo è obbligatorio.",
+        "email_invalid": "Inserisci un'email valida.",
+        "phone_required": "Il numero di telefono è obbligatorio.",
+        "sector_required": "Devi selezionare un settore.",
+        "document_required": "Devi selezionare un'opzione.",
+        "cv_required": "Il CV è obbligatorio.",
+        "cv_size": "Il CV non può superare i 5MB.",
+        "cv_type": "Sono accettati solo file PDF."
+      }
+    }
+  }
+}
