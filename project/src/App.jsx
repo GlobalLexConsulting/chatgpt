@@ -27,6 +27,7 @@ import { HelmetProvider } from 'react-helmet-async';
 import SEOPage from "@/pages/SEOPage";
 import ComparisonsPage from "@/pages/ComparisonsPage";
 import WorkInGermanyPage from "@/pages/WorkInGermanyPage";
+import CRMPage from "@/pages/CRMPage";
 
 const ImmigrationPage = lazy(() => import("@/pages/services/ImmigrationPage"));
 const CompanyFormationPage = lazy(() => import("@/pages/services/CompanyFormationPage"));
@@ -213,6 +214,7 @@ function App() {
                 <Route path="/comparativas/olympia-abogados/derecho-bancario" element={<OlympiaBancarioCluster />} />
                 
 
+                <Route path="/crm" element={<SEOPage title="CRM | ConsultGlobalLex" description="Gestión interna de clientes"><CRMPage /></SEOPage>} />
                 <Route
                   path="/dashboard"
                   element={
