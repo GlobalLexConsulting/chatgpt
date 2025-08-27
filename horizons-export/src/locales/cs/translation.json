@@ -1,0 +1,288 @@
+{
+  "navbar": {
+    "home": "Domů",
+    "services": "Služby",
+    "llc_usa": "LLC USA",
+    "about": "O nás",
+    "partners": "Partneři",
+    "testimonials": "Reference",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "clients": "Klienti",
+    "free_consultation": "Konzultace zdarma"
+  },
+  "hero": {
+    "title": "Mezinárodní daňové poradenství, víza a zakládání LLC",
+    "subtitle": "Naše firma nabízí mezinárodní daňové poradenství, vízové služby a zakládání LLC. Jsme experti na daňové plánování, regulatorní shodu a firemní struktury pro digitální podniky a nomády.",
+    "cta_main": "Zarezervujte si 15' mini-audit",
+    "cta_secondary": "Odeslat dotaz"
+  },
+  "services": {
+    "title": "Komplexní řešení pro vaši globální expanzi",
+    "subtitle": "Od založení vaší společnosti po mezinárodní daňové plánování, máme vás pokryté.",
+    "service_residency_title": "Imigrace a daňová rezidence",
+    "service_residency_desc": "Spravujeme víza, povolení k pobytu a optimalizujeme vaši daňovou situaci jako expat nebo digitální nomád.",
+    "service_residency_points": [
+      "Vízum pro digitální nomády ve Španělsku a dalších zemích",
+      "Aplikace Beckhamova zákona",
+      "Získání NIE a pobytu",
+      "Plánování daní při příjezdu a odjezdu"
+    ],
+    "service_incorporation_title": "Zakládání společností (SL, LLC)",
+    "service_incorporation_desc": "Vytváříme firemní strukturu, která nejlépe vyhovuje vašemu podnikání, ve Španělsku (SL) nebo v USA (LLC).",
+    "service_incorporation_points": [
+      "Založení LLC v USA pro nerezidenty",
+      "Založení společnosti s ručením omezeným (SL) ve Španělsku",
+      "Poradenství při výběru optimální struktury",
+      "Správa firemních bankovních účtů"
+    ],
+    "service_tax_title": "Mezinárodní daňové poradenství",
+    "service_tax_desc": "Proplouváme složitostí mezinárodního zdanění, abychom minimalizovali vaši daňovou zátěž a zajistili shodu.",
+    "service_tax_points": [
+      "Mezinárodní daňové plánování (BEPS, Pillar Two)",
+      "Daňová přiznání pro expaty",
+      "Smlouvy o zamezení dvojího zdanění",
+      "Soulad s předpisy (DAC7 atd.)"
+    ],
+    "service_legal_title": "Právní a obchodní poradenství",
+    "service_legal_desc": "Nabízíme komplexní právní podporu pro vaše globální obchodní i osobní operace.",
+    "service_legal_points": [
+      "Příprava a revize obchodních smluv",
+      "Poradenství v oblasti ochrany údajů (GDPR)",
+      "Podpora při M&A operacích",
+      "Řešení obchodních sporů"
+    ],
+    "service_germany_title": "Logistika a doprava v Německu",
+    "service_germany_desc": "Specializované poradenství pro logistické a dopravní společnosti působící nebo chtějící působit v Německu.",
+    "service_germany_points": [
+      "Založení společnosti v Německu",
+      "Soulad se zákonem o dodavatelském řetězci",
+      "Správa licencí a povolení k dopravě",
+      "Daňová optimalizace logistických operací"
+    ],
+    "service_insurance_title": "Pojištění pro expaty",
+    "service_insurance_desc": "Pomůžeme vám najít perfektní zdravotní a odpovědnostní pojištění pro váš život v zahraničí.",
+    "service_insurance_points": [
+      "Mezinárodní zdravotní pojištění",
+      "Pojistky profesní odpovědnosti",
+      "Cestovní a repatriační pojištění",
+      "Srovnání nejlepších možností na trhu"
+    ],
+    "service_work_germany_title": "Práce v Německu: Legální umístění",
+    "service_work_germany_desc": "Spojujeme španělský talent s německými firmami. Komplexní správa procesu.",
+    "service_work_germany_points": [
+      "Právní smlouva a registrace u sociálního zabezpečení",
+      "Podpora s přihlášením k pobytu a bankovním účtem",
+      "Asistence s ubytováním a dopravou",
+      "Nepřetržitá komunikace a podpora ve vašem jazyce"
+    ],
+    "start_process_cta": "Začněte svůj proces",
+    "request_quote_cta": "Požádat o cenovou nabídku",
+    "locations_title": "Naše kanceláře",
+    "locations_list": "USA a Španělsko, se sítí spolupracovníků po celé Evropě.",
+    "languages_title": "Jazyky",
+    "languages_list": "Španělština, angličtina, němčina, italština.",
+    "cta": "Jste připraveni posunout své podnikání na další úroveň?",
+    "why_us_title": "Proč si vybrat Consult Globallex?",
+    "why_us_subtitle": "Jsme více než poradci. Jsme vaši strategickí partneři v komplexním globálním prostředí.",
+    "why_us_point1_title": "Zkušenosti a specializace",
+    "why_us_point1_desc": "Náš tým kombinuje desetiletí zkušeností v oblasti daní, obchodního práva a imigrace a nabízí osvědčená a efektivní řešení.",
+    "why_us_point2_title": "Globální zaměření, osobní přístup",
+    "why_us_point2_desc": "Rozumíme nuancím různých jurisdikcí, ale nabízíme vám jediný kontaktní bod a blízký, osobní přístup.",
+    "why_us_point3_title": "Agilita a transparentnost",
+    "why_us_point3_desc": "Jsme moderní alternativou k velkým poradenským firmám. Agilní procesy, špičková technologie a jasné ceny bez překvapení."
+  },
+  "about": {
+    "title": "Váš strategický partner v propojeném světě",
+    "subtitle": "Pod vedením Ismaela L. náš mezinárodní tým demystifikuje daňovou a právní složitost, abyste se mohli rozšiřovat bez hranic.",
+    "paragraph1": "V propojeném světě není správné daňové a právní plánování volbou, je to nutnost. <strong>ConsultGlobalLex</strong> vznikl z vize nabízet vysoce specializované a dostupné poradenství přizpůsobené nové digitální ekonomice. Naše specializace na <strong class=\"font-semibold text-gray-800 dark:text-white\">mezinárodní daňové poradenství, víza a zakládání LLC</strong> nás staví do pozice agilní a personalizované alternativy k velkým firmám jako Deloitte nebo CE Consulting.",
+    "paragraph2": "Pod vedením Ismaela L., konzultanta a CEO, náš mezinárodní tým demystifikuje daňovou složitost pro digitální nomády, expaty a společnosti. Nejsme jen poradci; jsme stratégové, kteří rozumí nuancím <a href=\"https://www.oecd.org/tax/beps/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">předpisů BEPS</a>, Beckhamova zákona a dvojího zdanění.",
+    "experience_title": "Osvědčené zkušenosti a globální síť",
+    "experience_desc": "Spolupracujeme se sítí právníků, celních agentů a poradců s desetiletími zkušeností v mezinárodním zdanění, transferových cenách a obchodní expanzi. To nám umožňuje nabízet komplexní řešení pro zakládání LLC, dodržování předpisů jako Pillar Two a DAC7 a správu víz pro digitální nomády, s praktickým a efektivním přístupem.",
+    "approach_title": "Komplexní a technologický přístup",
+    "approach_desc": "Naším posláním je spojit právní technologii se strategickým poradenstvím, abyste mohli své podnikání škálovat bez hranic. Nabízíme globální perspektivu z našich kanceláří v USA a Španělsku, což zaručuje robustní mezinárodní daňové plánování a bezchybné provedení k minimalizaci rizik a maximalizaci vaší efektivity.",
+    "cta_contact": "Kontaktujte nás nyní",
+    "cta_blog": "Prozkoumejte náš blog"
+  },
+  "partners": {
+    "title": "Naši strategickí partneři",
+    "subtitle": "Spolupracujeme se sítí předních profesionálů, abychom vám nabídli komplexní a konkurenceschopné služby.",
+    "insurance_title": "Přístup k více než 60 pojišťovnám",
+    "insurance_desc": "Díky našim aliancím vám zaručujeme nejlepší tržní podmínky pro širokou škálu pojištění: domácnosti, zdraví, vozidel, života, občanskoprávní odpovědnosti a podnikání. Porovnáme a najdeme pro vás ideální možnost."
+  },
+  "guides": {
+    "title": "Praktické příručky zdarma",
+    "subtitle": "Stáhněte si naše exkluzivní zdroje a získejte konkurenční výhodu na globálním trhu.",
+    "download_cta": "Stáhnout příručku",
+    "visas_guide_title": "Kompletní průvodce vízy",
+    "visas_guide_desc": "Vše, co potřebujete vědět o vízech pro digitální nomády, investory a profesionály.",
+    "sl_vs_llc_usa_title": "Srovnání: SL vs LLC USA",
+    "sl_vs_llc_usa_desc": "Analyzujeme daňové a právní výhody každé struktury, abyste si mohli vybrat tu nejlepší možnost.",
+    "beps_guide_title": "Základní průvodce BEPS 2.0",
+    "beps_guide_desc": "Pochopte, jak nové globální daňové předpisy ovlivňují váš digitální byznys.",
+    "tourism_license_title": "Klíčové turistické licence",
+    "tourism_license_desc": "Nepostradatelný průvodce pro správu a daňovou optimalizaci turistických nemovitostí.",
+    "germany_logistics_title": "Logistika v Německu: Průvodce",
+    "germany_logistics_desc": "Optimalizujte své dopravní a logistické operace v srdci Evropy."
+  },
+  "testimonials": {
+    "title": "Co o nás říkají",
+    "subtitle": "Recenze klientů"
+  },
+  "faq": {
+    "title": "Odpovídáme na vaše dotazy",
+    "subtitle": "Často kladené otázky o globálním poradenství",
+    "description": "Najděte rychlé odpovědi na nejčastější dotazy týkající se mezinárodního zdanění, globálního obchodního práva a toho, jak vám můžeme pomoci.",
+    "footer_text": "Nenašli jste odpověď?",
+    "footer_link": "Kontaktujte naše experty",
+    "footer_text_after": "pro personalizované poradenství ve vašem konkrétním případě.",
+    "categories": [
+      {
+        "category": "Obecné",
+        "items": [
+          {
+            "question": "Jaké služby nabízí Consult Globallex?",
+            "answer": "Mezinárodní daňové poradenství pro digitální nomády a expaty; zakládání a správa S.L. ve Španělsku a LLC v USA; dodržování BEPS; správa víz; účetní a daňové poradenství pro malé a střední podniky a živnostníky; strategické právní poradenství; operace a logistika v Německu; a řízení rizik a pojištění."
+          },
+          {
+            "question": "Jak s vámi začít spolupracovat?",
+            "answer": "Vyplňte formulář 'Zarezervujte si 15' ZDARMA mini-audit' nebo nám napište na info@consultgloballex.com. Personalizovanou nabídku obdržíte do 24 hodin."
+          },
+          {
+            "question": "V jakých jazycích poskytujete služby?",
+            "answer": "Španělština, angličtina a francouzština, a to jak písemně, tak prostřednictvím videohovoru (Zoom, Teams) nebo e-mailu."
+          }
+        ]
+      },
+      {
+        "category": "Mezinárodní mobilita a pobyt",
+        "items": [
+          {
+            "question": "Co je 'Mezinárodní pobyt a mobilita'?",
+            "answer": "Navrhujeme a realizujeme vaši strategii změny daňové a právní rezidence mezi jurisdikcemi pro digitální nomády, investory a profesionály s co nejmenším dopadem."
+          },
+          {
+            "question": "Jaká víza vyřizujete?",
+            "answer": "– Vízum pro digitální nomády a nepodnikatelská povolení.\n– Pobyty na základě investic ('Zlaté vízum').\n– Vyřizování podle Beckhamova zákona a dalších speciálních režimů."
+          },
+          {
+            "question": "Jak optimalizujete můj 'daňový den'?",
+            "answer": "Plánujeme vaše klíčové termíny pro daňovou rezidenci a ekonomickou aktivitu tak, abychom minimalizovali vaše daňové náklady bez porušení předpisů."
+          },
+          {
+            "question": "Jaký je proces pro Zlaté vízum?",
+            "answer": "Analyzujeme váš investiční profil (nemovitosti, fondy, projekty), připravíme dokumentaci a spravujeme vaši žádost až do získání pobytu."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Jste připraveni posílit svou globální strategii?",
+    "description": "Kontaktujte naše experty pro bezplatnou úvodní konzultaci a zjistěte, jak vám můžeme pomoci dosáhnout vašich mezinárodních cílů.",
+    "form_name": "Jméno",
+    "form_email": "E-mail",
+    "form_phone": "Telefon (nepovinné)",
+    "form_service": "Služba, o kterou máte zájem",
+    "form_message": "Vaše zpráva",
+    "form_submit": "Odeslat zprávu",
+    "form_success_title": "Zpráva odeslána!",
+    "form_success_desc": "Děkujeme, že jste nás kontaktovali. Brzy se vám ozveme.",
+    "form_error_title": "Chyba při odesílání",
+    "form_error_desc": "Vyskytl se problém. Zkuste to prosím znovu."
+  },
+  "footer": {
+    "description": "Daňové a právní poradenství pro svět bez hranic. Váš strategický partner pro globální růst.",
+    "services": "Služby",
+    "company": "Společnost",
+    "legal": "Právní",
+    "rights": "Všechna práva vyhrazena."
+  },
+  "work_in_germany": {
+    "header_title": "Pracujte v Německu s GLOBALLEX CONSULTING",
+    "header_subtitle": "Spojujeme španělský talent s německými firmami. Komplexní správa: právní smlouva, registrace, bankovní účet, bydlení, doprava a průběžná podpora.",
+    "candidates_title": "Hledáte práci v Německu?",
+    "candidates_subtitle": "Pomůžeme vám začít legálně, bez zkušeností nebo znalosti němčiny. O vše se postaráme:",
+    "candidates_benefits": [
+      "Podepsání smlouvy s německou firmou",
+      "Registrace u sociálního zabezpečení a přihlášení k pobytu (empadronamiento)",
+      "Otevření bankovního účtu",
+      "Asistence s ubytováním a dopravou",
+      "Řešení pracovních/osobních incidentů",
+      "Nepřetržitá komunikace a podpora ve vašem jazyce"
+    ],
+    "form_title": "🔽 Podejte svou žádost nyní",
+    "companies_title": "Potřebuje vaše firma spolehlivý španělský personál?",
+    "companies_subtitle": "Nabízíme kompletní systém mezinárodního zprostředkování práce. Náš tým působí ze Španělska a má zastoupení v Hamburku.",
+    "companies_benefits": [
+      "Výběr a předběžné prověření kandidátů",
+      "Správa dokumentů: přihlášení k pobytu, sociální zabezpečení, bankovní účet",
+      "Logistická organizace (doprava a ubytování)",
+      "Řešení incidentů a průběžná podpora",
+      "Plynulá komunikace s pracovníky",
+      "Škálovatelnost během špičkové poptávky"
+    ],
+    "pricing_title": "Paušální sazba: <1>100 €/měsíc</1> na pracovníka",
+    "pricing_subtitle": "Žádné skryté náklady. Rychlá reakce.",
+    "contact_cta": "Kontakt pro nábor",
+    "sectors_title": "Sektory s vysokou poptávkou",
+    "sectors_subtitle": "Nevyžadují se žádné předchozí zkušenosti ani jazykové znalosti. Jen chuť pracovat!",
+    "sectors": [
+      { "title": "Logistika a sklady", "description": "Vychystávání, balení, nakládka a vykládka." },
+      { "title": "Úklid a údržba", "description": "Hotely, kanceláře, komunity." },
+      { "title": "Pohostinství a kuchyně", "description": "Pomocní kuchaři, pokojová služba." },
+      { "title": "Doručování a doprava", "description": "Dodávkou nebo na kole." },
+      { "title": "Stavebnictví a rekonstrukce", "description": "Obecné práce, demolice, malování." },
+      { "title": "Péče o seniory", "description": "Asistenti bez kvalifikace, rezidence." }
+    ],
+    "trust_elements": [
+      "+10 let zkušeností v mezinárodním náboru",
+      "Přímá spolupráce s německými firmami",
+      "Působíme ze Španělska a Německa (Hamburk)"
+    ],
+    "why_us_title": "Proč GLOBALLEX?",
+    "why_us_points": [
+      "Rozsáhlé mezinárodní zkušenosti se zprostředkováním personálu",
+      "Provozní přítomnost v Německu (Hamburk)",
+      "Personalizovaná péče ve španělštině, angličtině, němčině a italštině",
+      "Monitorování a podpora během celého procesu",
+      "100% legální a transparentní proces"
+    ],
+    "why_us_footer": "S námi lidé pracují bezpečně a firmy dostávají spolehlivý personál.",
+    "form": {
+      "name_label": "Celé jméno",
+      "email_label": "E-mail",
+      "phone_label": "Telefon (WhatsApp)",
+      "sector_label": "Odvětví zájmu",
+      "sector_placeholder": "Vyberte odvětví",
+      "sector_options": [
+        "Logistika a sklady", "Úklid a údržba", "Pohostinství a kuchyně",
+        "Doručování a doprava", "Stavebnictví a rekonstrukce", "Péče o seniory"
+      ],
+      "document_label": "Máte platný pas nebo NIE?",
+      "document_placeholder": "Vyberte možnost",
+      "document_yes": "Ano",
+      "document_no": "Ne",
+      "cv_label": "Přiložte svůj životopis (PDF, max 5MB)",
+      "gdpr_notice": "Vaše údaje budou zpracovány v souladu s GDPR a použity pouze pro účely výběrového řízení.",
+      "submit_button": "Chci pracovat v Německu",
+      "submitting_button": "Odesílání",
+      "toast_success_title": "Žádost odeslána!",
+      "toast_success_desc": "Děkujeme, vaši žádost zkontrolujeme do 48 hodin.",
+      "toast_error_title": "Chyba při odesílání žádosti",
+      "toast_error_desc": "Při zpracování vaší žádosti se vyskytl problém. Zkuste to prosím znovu.",
+      "validation": {
+        "name_required": "Celé jméno je povinné.",
+        "email_invalid": "Zadejte prosím platný e-mail.",
+        "phone_required": "Telefonní číslo je povinné.",
+        "sector_required": "Musíte vybrat odvětví.",
+        "document_required": "Musíte vybrat možnost.",
+        "cv_required": "Životopis je povinný.",
+        "cv_size": "Životopis nesmí přesáhnout 5 MB.",
+        "cv_type": "Jsou přijímány pouze soubory PDF."
+      }
+    }
+  }
+}

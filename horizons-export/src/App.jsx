@@ -27,7 +27,6 @@ import { HelmetProvider } from 'react-helmet-async';
 import SEOPage from "@/pages/SEOPage";
 import ComparisonsPage from "@/pages/ComparisonsPage";
 import WorkInGermanyPage from "@/pages/WorkInGermanyPage";
-import CRMPage from "@/pages/CRMPage";
 
 const ImmigrationPage = lazy(() => import("@/pages/services/ImmigrationPage"));
 const CompanyFormationPage = lazy(() => import("@/pages/services/CompanyFormationPage"));
@@ -36,6 +35,16 @@ const GermanyLogisticsPage = lazy(() => import("@/pages/services/GermanyLogistic
 const SpainFiscalPage = lazy(() => import("@/pages/services/SpainFiscalPage"));
 const InsurancePage = lazy(() => import("@/pages/services/InsurancePage"));
 
+const CyprusPage = lazy(() => import("@/pages/services/relocation/CyprusPage"));
+const ParaguayPage = lazy(() => import("@/pages/services/relocation/ParaguayPage"));
+const PanamaPage = lazy(() => import("@/pages/services/relocation/PanamaPage"));
+const DubaiPage = lazy(() => import("@/pages/services/relocation/DubaiPage"));
+const DominicanRepublicPage = lazy(() => import("@/pages/services/relocation/DominicanRepublicPage"));
+const ThailandPage = lazy(() => import("@/pages/services/relocation/ThailandPage"));
+const CostaRicaPage = lazy(() => import("@/pages/services/relocation/CostaRicaPage"));
+const SpainBeckhamLawPage = lazy(() => import("@/pages/services/relocation/SpainBeckhamLawPage"));
+const BulgariaPage = lazy(() => import("@/pages/services/relocation/BulgariaPage"));
+const AndorraPage = lazy(() => import("@/pages/services/relocation/AndorraPage"));
 
 
 const DeloittePillarPage = lazy(() => import("@/pages/comparativas/DeloittePillarPage"));
@@ -139,6 +148,16 @@ function App() {
                 <Route path="/servicios/logistica-alemania" element={<GermanyLogisticsPage />} />
                 <Route path="/servicios/gestion-fiscal-espana" element={<SpainFiscalPage />} />
                 <Route path="/servicios/seguros" element={<InsurancePage />} />
+                <Route path="/servicios/relocation-chipre" element={<CyprusPage />} />
+                <Route path="/servicios/relocation-paraguay" element={<ParaguayPage />} />
+                <Route path="/servicios/relocation-panama" element={<PanamaPage />} />
+                <Route path="/servicios/relocation-dubai" element={<DubaiPage />} />
+                <Route path="/servicios/relocation-republica-dominicana" element={<DominicanRepublicPage />} />
+                <Route path="/servicios/relocation-tailandia" element={<ThailandPage />} />
+                <Route path="/servicios/relocation-costa-rica" element={<CostaRicaPage />} />
+                <Route path="/servicios/relocation-espana-ley-beckham" element={<SpainBeckhamLawPage />} />
+                <Route path="/servicios/relocation-bulgaria" element={<BulgariaPage />} />
+                <Route path="/servicios/relocation-andorra" element={<AndorraPage />} />
 
                 
                 {/* Service Landing Pages EN */}
@@ -148,6 +167,16 @@ function App() {
                 <Route path="/services/germany-logistics" element={<GermanyLogisticsPage />} />
                 <Route path="/services/fiscal-management-spain" element={<SpainFiscalPage />} />
                 <Route path="/services/insurance" element={<InsurancePage />} />
+                <Route path="/services/relocation-cyprus" element={<CyprusPage />} />
+                <Route path="/services/relocation-paraguay" element={<ParaguayPage />} />
+                <Route path="/services/relocation-panama" element={<PanamaPage />} />
+                <Route path="/services/relocation-dubai" element={<DubaiPage />} />
+                <Route path="/services/relocation-dominican-republic" element={<DominicanRepublicPage />} />
+                <Route path="/services/relocation-thailand" element={<ThailandPage />} />
+                <Route path="/services/relocation-costa-rica" element={<CostaRicaPage />} />
+                <Route path="/services/relocation-spain-beckham-law" element={<SpainBeckhamLawPage />} />
+                <Route path="/services/relocation-bulgaria" element={<BulgariaPage />} />
+                <Route path="/services/relocation-andorra" element={<AndorraPage />} />
 
                 {/* Service Landing Pages DE */}
                 <Route path="/dienstleistungen/steuerlicher-wohnsitz" element={<ImmigrationPage />} />
@@ -156,6 +185,16 @@ function App() {
                 <Route path="/dienstleistungen/logistik-deutschland" element={<GermanyLogisticsPage />} />
                 <Route path="/dienstleistungen/steuerverwaltung-spanien" element={<SpainFiscalPage />} />
                 <Route path="/dienstleistungen/versicherungen" element={<InsurancePage />} />
+                <Route path="/dienstleistungen/umzug-zypern" element={<CyprusPage />} />
+                <Route path="/dienstleistungen/umzug-paraguay" element={<ParaguayPage />} />
+                <Route path="/dienstleistungen/umzug-panama" element={<PanamaPage />} />
+                <Route path="/dienstleistungen/umzug-dubai" element={<DubaiPage />} />
+                <Route path="/dienstleistungen/umzug-dominikanische-republik" element={<DominicanRepublicPage />} />
+                <Route path="/dienstleistungen/umzug-thailand" element={<ThailandPage />} />
+                <Route path="/dienstleistungen/umzug-costa-rica" element={<CostaRicaPage />} />
+                <Route path="/dienstleistungen/umzug-spanien-beckham-gesetz" element={<SpainBeckhamLawPage />} />
+                <Route path="/dienstleistungen/umzug-bulgarien" element={<BulgariaPage />} />
+                <Route path="/dienstleistungen/umzug-andorra" element={<AndorraPage />} />
 
                 {/* Service Landing Pages IT */}
                 <Route path="/servizi/residenza-fiscale" element={<ImmigrationPage />} />
@@ -164,6 +203,16 @@ function App() {
                 <Route path="/servizi/logistica-germania" element={<GermanyLogisticsPage />} />
                 <Route path="/servizi/gestione-fiscale-spagna" element={<SpainFiscalPage />} />
                 <Route path="/servizi/assicurazioni" element={<InsurancePage />} />
+                <Route path="/servizi/trasferimento-cipro" element={<CyprusPage />} />
+                <Route path="/servizi/trasferimento-paraguay" element={<ParaguayPage />} />
+                <Route path="/servizi/trasferimento-panama" element={<PanamaPage />} />
+                <Route path="/servizi/trasferimento-dubai" element={<DubaiPage />} />
+                <Route path="/servizi/trasferimento-repubblica-dominicana" element={<DominicanRepublicPage />} />
+                <Route path="/servizi/trasferimento-thailandia" element={<ThailandPage />} />
+                <Route path="/servizi/trasferimento-costa-rica" element={<CostaRicaPage />} />
+                <Route path="/servizi/trasferimento-spagna-legge-beckham" element={<SpainBeckhamLawPage />} />
+                <Route path="/servizi/trasferimento-bulgaria" element={<BulgariaPage />} />
+                <Route path="/servizi/trasferimento-andorra" element={<AndorraPage />} />
                 
                 {/* Work in Germany Routes */}
                 <Route path="/trabajo-en-alemania" element={<SEOPage title="Trabaja en Alemania con GLOBALLEX – Colocación legal y acompañada" description="GLOBALLEX CONSULTING conecta personal español con empresas en Alemania. Trabajo legal, sin experiencia previa, sectores con alta demanda."><WorkInGermanyPage /></SEOPage>} />
@@ -214,7 +263,6 @@ function App() {
                 <Route path="/comparativas/olympia-abogados/derecho-bancario" element={<OlympiaBancarioCluster />} />
                 
 
-                <Route path="/crm" element={<SEOPage title="CRM | ConsultGlobalLex" description="Gestión interna de clientes"><CRMPage /></SEOPage>} />
                 <Route
                   path="/dashboard"
                   element={
