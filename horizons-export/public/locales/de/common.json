@@ -1,0 +1,308 @@
+
+{
+  "navbar": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "llc_usa": "LLC USA",
+    "about": "Über uns",
+    "partners": "Partner",
+    "testimonials": "Referenzen",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "clients": "Kunden",
+    "free_consultation": "Kostenlose Beratung"
+  },
+  "routes": {
+    "work_in_germany": "arbeiten-in-deutschland"
+  },
+  "hero": {
+    "title": "Internationale Steuerberatung, Visa und LLC-Gründung",
+    "subtitle": "Unsere Kanzlei bietet internationale Steuerberatung, Visa-Dienstleistungen und LLC-Gründungen an. Wir sind Experten für Steuerplanung, regulatorische Compliance und Unternehmensstrukturen für digitale Unternehmen und Nomaden.",
+    "cta_main": "Buchen Sie Ihr 15' Mini-Audit",
+    "cta_secondary": "Anfrage senden"
+  },
+  "services": {
+    "title": "Umfassende Lösungen für Ihre globale Expansion",
+    "subtitle": "Von der Gründung Ihres Unternehmens bis zur internationalen Steuerplanung sind Sie bei uns richtig.",
+    "service_residency_title": "Einwanderung und steuerlicher Wohnsitz",
+    "service_residency_desc": "Wir verwalten Visa, Aufenthaltsgenehmigungen und optimieren Ihre Steuersituation als Expat oder digitaler Nomade.",
+    "service_residency_points": [
+      "Digitales Nomadenvisum in Spanien und anderen Ländern",
+      "Anwendung des Beckham-Gesetzes",
+      "Erlangung von NIE und Aufenthaltsgenehmigung",
+      "Steuerplanung bei Ein- und Ausreise"
+    ],
+    "service_incorporation_title": "Unternehmensgründung (SL, LLC)",
+    "service_incorporation_desc": "Wir schaffen die Unternehmensstruktur, die am besten zu Ihrem Unternehmen passt, in Spanien (SL) oder den USA (LLC).",
+    "service_incorporation_points": [
+      "LLC-Gründung in den USA für Nichtansässige",
+      "Gründung von Gesellschaften mit beschränkter Haftung (SL) in Spanien",
+      "Beratung bei der Wahl der optimalen Struktur",
+      "Verwaltung von Firmenbankkonten"
+    ],
+    "service_tax_title": "Internationale Steuerberatung",
+    "service_tax_desc": "Wir navigieren durch die Komplexität der internationalen Besteuerung, um Ihre Steuerlast zu minimieren und die Einhaltung der Vorschriften zu gewährleisten.",
+    "service_tax_points": [
+      "Internationale Steuerplanung (BEPS, Pillar Two)",
+      "Steuererklärungen für Expats",
+      "Doppelbesteuerungsabkommen",
+      "Einhaltung von Vorschriften (DAC7 usw.)"
+    ],
+    "service_spain_fiscal_title": "Steuer- und Rechnungswesen in Spanien",
+    "service_spain_fiscal_desc": "Umfassende Dienstleistungen in den Bereichen Buchhaltung, Steuern und Zoll für Freiberufler und KMU in Spanien, mit Spezialisierung auf die Kanarischen Inseln.",
+    "service_spain_fiscal_points": [
+        "Offizielle Buchführung und Einreichung",
+        "Steuererklärungen (MwSt., Einkommensteuer, Körperschaftsteuer)",
+        "IGIC-Management auf den Kanarischen Inseln",
+        "Zollverfahren (DUA, EORI, ROI)"
+    ],
+    "service_germany_title": "Logistik und Transport in Deutschland",
+    "service_germany_desc": "Spezialisierte Beratung für Logistik- und Transportunternehmen, die in Deutschland tätig sind oder werden wollen.",
+    "service_germany_points": [
+      "Unternehmensgründung in Deutschland",
+      "Einhaltung des Lieferkettengesetzes",
+      "Verwaltung von Lizenzen und Transportgenehmigungen",
+      "Steuerliche Optimierung von Logistikoperationen"
+    ],
+    "service_insurance_title": "Versicherungen für Expats und Unternehmen",
+    "service_insurance_desc": "Wir helfen Ihnen, die perfekte Kranken- und Haftpflichtversicherung für Ihr Leben und Geschäft im Ausland zu finden.",
+    "service_insurance_points": [
+      "Internationale Krankenversicherungen",
+      "Berufshaftpflichtversicherungen",
+      "Reise- und Rückführungsversicherungen",
+      "Vergleich der besten Marktoptionen"
+    ],
+    "service_work_germany_title": "Arbeiten in Deutschland: Legale Vermittlung",
+    "service_work_germany_desc": "Wir verbinden spanische Talente mit deutschen Unternehmen. Umfassende Prozessverwaltung.",
+    "service_work_germany_points": [
+      "Rechtsgültiger Vertrag und Anmeldung bei der Sozialversicherung",
+      "Unterstützung bei der Anmeldung und dem Bankkonto",
+      "Hilfe bei Unterkunft und Transport",
+      "Kontinuierliche Kommunikation und Unterstützung in Ihrer Sprache"
+    ],
+    "service_cyprus_title": "Umzug nach Zypern – Non-Dom",
+    "service_cyprus_desc": "Erhalten Sie den Non-Dom-Status in Zypern und profitieren Sie von der Steuerbefreiung auf Dividenden und Zinsen.",
+    "service_cyprus_points": [
+      "Residenz in 60 Tagen",
+      "0% Steuer auf weltweite Dividenden",
+      "Niedriger Körperschaftsteuersatz",
+      "Strategischer EU-Standort"
+    ],
+    "service_paraguay_title": "Umzug nach Paraguay – Einfachste Residenz",
+    "service_paraguay_desc": "Erhalten Sie einfach und schnell eine steuerliche Ansässigkeit in Paraguay und genießen Sie eine niedrige Steuerbelastung.",
+    "service_paraguay_points": [
+      "10% Pauschalsteuer auf Einkommen",
+      "Schneller und unkomplizierter Prozess",
+      "Territoriale Besteuerung",
+      "Keine Vermögens- oder Erbschaftssteuer"
+    ],
+    "service_panama_title": "Umzug nach Panama – Das Steuerparadies",
+    "service_panama_desc": "Nutzen Sie die Vorteile eines der bekanntesten Steuerparadiese mit territorialer Besteuerung.",
+    "service_panama_points": [
+      "0% Steuer auf ausländische Einkünfte",
+      "Robuster Bankensektor",
+      "Einfache Aufenthaltsoptionen",
+      "Strategische geografische Lage"
+    ],
+    "service_dubai_title": "Umzug nach Dubai (VAE) – Steueroase",
+    "service_dubai_desc": "Leben und arbeiten Sie in einem der dynamischsten Wirtschaftszentren mit 0% Einkommensteuer.",
+    "service_dubai_points": [
+      "0% Personen- und Körperschaftsteuer",
+      "Hohe Lebensqualität",
+      "Globale Geschäftsdrehscheibe",
+      "Einfache Unternehmensgründung"
+    ],
+    "service_dominican_republic_title": "Umzug in die Dominikanische Republik – 0% Steuern",
+    "service_dominican_republic_desc": "Profitieren Sie von Steueranreizen in einer karibischen Oase mit einem einfachen Aufenthaltsverfahren.",
+    "service_dominican_republic_points": [
+      "Spezielle Steuerbefreiungen",
+      "Territoriales Steuersystem",
+      "Wunderschöne Umgebung und Lebensstil",
+      "Erschwingliche Lebenshaltungskosten"
+    ],
+    "service_thailand_title": "Umzug nach Thailand – Steuerliches Refugium",
+    "service_thailand_desc": "Genießen Sie einen niedrigen Steuersatz und einen exotischen Lebensstil in Südostasien.",
+    "service_thailand_points": [
+      "Attraktive Steuersätze",
+      "Langzeitvisa verfügbar",
+      "Niedrige Lebenshaltungskosten",
+      "Pulsierende Expat-Community"
+    ],
+    "service_costa_rica_title": "Umzug nach Costa Rica – Pura Vida ohne Steuern",
+    "service_costa_rica_desc": "Leben Sie den 'Pura Vida'-Lebensstil in einem Land, das keine Steuern auf ausländische Einkünfte erhebt.",
+    "service_costa_rica_points": [
+      "0% Steuer auf ausländische Einkünfte",
+      "Hohe Lebensqualität und Natur",
+      "Digitales Nomadenvisum verfügbar",
+      "Stabile Demokratie"
+    ],
+    "service_spain_beckham_title": "Umzug nach Spanien – Beckham-Gesetz",
+    "service_spain_beckham_desc": "Profitieren Sie von einem pauschalen Steuersatz von 24% auf Ihr Einkommen als nach Spanien entsandter Arbeitnehmer.",
+    "service_spain_beckham_points": [
+      "Pauschalsteuer von 24% (bis zu 600k€)",
+      "Keine Vermögenssteuer auf ausländische Vermögenswerte",
+      "Gilt für 6 Jahre",
+      "Ideal für hochbezahlte Fachkräfte"
+    ],
+    "service_bulgaria_title": "Umzug nach Bulgarien – Verstecktes Juwel",
+    "service_bulgaria_desc": "Einer der niedrigsten Steuersätze in Europa in einem Land mit wachsenden Möglichkeiten.",
+    "service_bulgaria_points": [
+      "10% Pauschalsteuer auf Einkommen",
+      "Niedriger Körperschaftsteuersatz",
+      "EU-Mitgliedstaat",
+      "Strategische Lage"
+    ],
+    "service_andorra_title": "Umzug nach Andorra – Steueroase",
+    "service_andorra_desc": "Leben Sie in den Pyrenäen mit maximal 10% Einkommensteuer und hoher Lebensqualität.",
+    "service_andorra_points": [
+      "Maximal 10% Einkommensteuer",
+      "Keine Vermögens- oder Erbschaftssteuer",
+      "Sicher und exklusiv",
+      "Umgeben von Natur"
+    ],
+    "view_more_info": "Mehr Informationen anzeigen"
+  },
+  "about": {
+    "title": "Ihr strategischer Partner in einer vernetzten Welt",
+    "subtitle": "Unter der Leitung von Ismael L. entmystifiziert unser internationales Team die steuerliche und rechtliche Komplexität, damit Sie grenzenlos expandieren können.",
+    "paragraph1": "In einer vernetzten Welt ist eine ordnungsgemäße Steuer- und Rechtsplanung keine Option, sondern eine Notwendigkeit. <strong>ConsultGlobalLex</strong> wurde aus der Vision geboren, hochspezialisierte, zugängliche und an die neue digitale Wirtschaft angepasste Beratung anzubieten. Unsere Spezialisierung auf <strong class=\"font-semibold text-gray-800 dark:text-white\">internationale Steuerberatung, Visa und LLC-Gründung</strong> positioniert uns als die agile und personalisierte Alternative zu großen Kanzleien wie Deloitte oder CE Consulting.",
+    "paragraph2": "Unter der Leitung von Ismael L., Berater und CEO, entmystifiziert unser internationales Team die Steuerkomplexität für digitale Nomaden, Expats und Unternehmen. Wir sind nicht nur Berater; wir sind Strategen, die die Nuancen der <a href=\"https://www.oecd.org/tax/beps/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">BEPS-Vorschriften</a>, des Beckham-Gesetzes und der Doppelbesteuerung verstehen.",
+    "experience_title": "Nachgewiesene Erfahrung und globales Netzwerk",
+    "experience_desc": "Wir arbeiten mit einem Netzwerk von Anwälten, Zollagenten und Beratern mit jahrzehntelanger Erfahrung in internationaler Besteuerung, Verrechnungspreisen und Geschäftsexpansion zusammen. Dies ermöglicht es uns, umfassende Lösungen für die Gründung von LLCs, die Einhaltung von Vorschriften wie Pillar Two und DAC7 sowie die Verwaltung von Visa für digitale Nomaden mit einem praktischen und effizienten Ansatz anzubieten.",
+    "approach_title": "Umfassender und technologischer Ansatz",
+    "approach_desc": "Unsere Mission ist es, Rechtstechnologie mit strategischer Beratung zu verbinden, damit Sie Ihr Geschäft grenzenlos skalieren können. Wir bieten eine globale Perspektive von unseren Büros in den USA und Spanien aus und gewährleisten eine robuste internationale Steuerplanung und eine einwandfreie Ausführung, um Risiken zu minimieren und Ihre Effizienz zu maximieren.",
+    "cta_contact": "Kontaktieren Sie uns jetzt",
+    "cta_blog": "Entdecken Sie unseren Blog"
+  },
+  "partners": {
+    "title": "Unsere strategischen Partner",
+    "subtitle": "Wir arbeiten mit einem Netzwerk führender Fachleute zusammen, um Ihnen einen umfassenden und wettbewerbsfähigen Service zu bieten.",
+    "insurance_title": "Zugang zu über 60 Versicherern",
+    "insurance_desc": "Dank unserer Allianzen garantieren wir Ihnen die besten Marktkonditionen für eine breite Palette von Versicherungen: Haus, Gesundheit, Fahrzeug, Leben, Haftpflicht und Geschäft. Wir vergleichen und finden die ideale Option für Sie."
+  },
+  "guides": {
+    "title": "Kostenlose praktische Leitfäden",
+    "subtitle": "Laden Sie unsere exklusiven Ressourcen herunter und verschaffen Sie sich einen Wettbewerbsvorteil auf dem globalen Markt.",
+    "download_cta": "Leitfaden herunterladen",
+    "visas_guide_title": "Vollständiger Visa-Leitfaden",
+    "visas_guide_desc": "Alles, was Sie über Visa für digitale Nomaden, Investoren und Fachkräfte wissen müssen.",
+    "sl_vs_llc_usa_title": "Vergleich: SL vs. LLC USA",
+    "sl_vs_llc_usa_desc": "Wir analysieren die steuerlichen und rechtlichen Vorteile jeder Struktur, damit Sie die beste Option wählen können.",
+    "beps_guide_title": "Wesentlicher Leitfaden zu BEPS 2.0",
+    "beps_guide_desc": "Verstehen Sie, wie sich neue globale Steuervorschriften auf Ihr digitales Geschäft auswirken.",
+    "tourism_license_title": "Schlüssel-Tourismuslizenzen",
+    "tourism_license_desc": "Ein unverzichtbarer Leitfaden für die Verwaltung und steuerliche Optimierung von touristischen Immobilien.",
+    "germany_logistics_title": "Logistik in Deutschland: Leitfaden",
+    "germany_logistics_desc": "Optimieren Sie Ihre Transport- und Logistikoperationen im Herzen Europas."
+  },
+  "testimonials": {
+    "title": "Was sie über uns sagen",
+    "subtitle": "Kundenbewertungen",
+    "anonymous_user": "Anonymer Benutzer",
+    "client": "Kunde",
+    "no_comment": "Kein Kommentar."
+  },
+  "faq": {
+    "title": "Wir beantworten Ihre Fragen",
+    "subtitle": "Häufig gestellte Fragen zur globalen Beratung",
+    "description": "Finden Sie schnelle Antworten auf die häufigsten Fragen zu internationaler Besteuerung, globalem Wirtschaftsrecht und wie wir Ihnen helfen können.",
+    "footer_text": "Finden Sie Ihre Antwort nicht?",
+    "footer_link": "Kontaktieren Sie unsere Experten",
+    "footer_text_after": "für eine persönliche Beratung zu Ihrem spezifischen Fall.",
+    "categories": [
+      {
+        "category": "Allgemein",
+        "items": [
+          {
+            "question": "Welche Dienstleistungen bietet Consult Globallex an?",
+            "answer": "Internationale Steuerberatung für digitale Nomaden und Expats; Gründung und Verwaltung von S.L. in Spanien und LLC in den USA; BEPS-Compliance; Visa-Management; Buchhaltungs- und Steuerberatung für KMU und Freiberufler; strategische Rechtsberatung; Betrieb und Logistik in Deutschland; sowie Risikomanagement und Versicherungen."
+          },
+          {
+            "question": "Wie beginne ich die Zusammenarbeit mit Ihnen?",
+            "answer": "Füllen Sie das Formular 'Buchen Sie Ihr 15' KOSTENLOSES Mini-Audit' aus oder schreiben Sie uns an info@consultgloballex.com. Sie erhalten innerhalb von 24 Stunden ein personalisiertes Angebot."
+          },
+          {
+            "question": "In welchen Sprachen bieten Sie Unterstützung an?",
+            "answer": "Spanisch, Englisch und Französisch, sowohl schriftlich als auch per Videoanruf (Zoom, Teams) oder E-Mail."
+          }
+        ]
+      },
+      {
+        "category": "Internationale Mobilität und Aufenthalt",
+        "items": [
+          {
+            "question": "Was ist 'Internationale Residenz und Mobilität'?",
+            "answer": "Wir entwerfen und führen Ihre Strategie zum Wechsel des steuerlichen und rechtlichen Wohnsitzes zwischen Gerichtsbarkeiten für digitale Nomaden, Investoren und Fachkräfte mit den geringstmöglichen Auswirkungen durch."
+          },
+          {
+            "question": "Welche Visa bearbeiten Sie?",
+            "answer": "– Visa für digitale Nomaden und nicht lukrative Genehmigungen.\n– Aufenthaltsgenehmigungen durch Investition ('Golden Visa').\n– Bearbeitung nach dem Beckham-Gesetz und anderen Sonderregelungen."
+          },
+          {
+            "question": "Wie optimieren Sie meinen 'Steuertag'?",
+            "answer": "Wir planen Ihre Schlüsseldaten für den steuerlichen Wohnsitz und die wirtschaftliche Tätigkeit, um Ihre Steuerrechnung zu minimieren, ohne die Vorschriften zu verletzen."
+          },
+          {
+            "question": "Wie ist der Prozess für ein Golden Visa?",
+            "answer": "Wir analysieren Ihr Investitionsprofil (Immobilien, Fonds, Projekte), bereiten die Unterlagen vor und verwalten Ihren Antrag bis zur Erlangung des Aufenthalts."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Bereit, Ihre globale Strategie zu stärken?",
+    "description": "Kontaktieren Sie unsere Experten für eine kostenlose Erstberatung und entdecken Sie, wie wir Ihnen helfen können, Ihre internationalen Ziele zu erreichen.",
+    "info_title": "Kontaktinformationen",
+    "info_subtitle": "Wir sind hier, um Ihnen zu helfen. Wählen Sie Ihre bevorzugte Kontaktmethode.",
+    "office_eu_label": "Büro EU",
+    "office_us_label": "Büro USA",
+    "phone_telegram_label": "Telefon / Telegram",
+    "whatsapp_label": "WhatsApp",
+    "hours_label": "Öffnungszeiten",
+    "hours": "Mo - Fr: 9:00 - 18:00 (CET)",
+    "address_es": "Calle O'Donnell, 12, 28009 Madrid, Spanien",
+    "address_us": "251 Little Falls Drive, Wilmington, DE 19808, USA",
+    "form_name": "Name",
+    "form_name_placeholder": "Ihr Name und Nachname",
+    "form_email": "E-Mail",
+    "form_email_placeholder": "beispiel@domain.com",
+    "form_phone": "Telefon (optional)",
+    "form_phone_placeholder": "+49 123 456 7890",
+    "form_service": "Interessierender Dienst",
+    "form_message": "Ihre Nachricht",
+    "form_message_placeholder": "Beschreiben Sie kurz Ihre Anfrage...",
+    "form_privacy_notice_pre": "Durch das Absenden akzeptieren Sie unsere",
+    "form_privacy_policy": "Datenschutzrichtlinie",
+    "form_submit": "Anfrage senden",
+    "form_submitting": "Wird gesendet...",
+    "form_success_title": "Nachricht gesendet!",
+    "form_success_desc": "Vielen Dank für Ihre Kontaktaufnahme. Wir werden uns in Kürze bei Ihnen melden.",
+    "form_error_title": "Fehler beim Senden",
+    "form_error_desc": "Es gab ein Problem. Bitte versuchen Sie es erneut.",
+    "form_validation": {
+        "name_required": "Name ist erforderlich.",
+        "email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "message_required": "Die Nachricht muss mindestens 10 Zeichen lang sein."
+    },
+    "service_options": {
+      "general_inquiry": "Allgemeine Anfrage",
+      "global_formation": "Globales Unternehmensgründungspaket",
+      "contract_review": "Vertragsprüfung und -erstellung",
+      "compliance": "Regulatorische Compliance und Datenschutz",
+      "tax_planning": "Internationale Steuerplanung",
+      "nomad_advisory": "Beratung für digitale Nomaden / Expats",
+      "holding_structuring": "Strukturierung von internationalen Holdings",
+      "other": "Andere"
+    }
+  },
+  "footer": {
+    "description": "Steuer- und Rechtsberatung für eine Welt ohne Grenzen. Ihr strategischer Partner für globales Wachstum.",
+    "services": "Dienstleistungen",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}
